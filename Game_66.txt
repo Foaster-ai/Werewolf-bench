@@ -1,0 +1,368 @@
+
+============================================================
+GAME 66
+============================================================
+Players and roles : {'Liam': 'witch', 'Mona': 'wolf', 'Alice': 'villager', 'Diana': 'seer', 'Charlie': 'wolf', 'Nina': 'villager'}
+Villager model : gemini-2.5-flash
+Werewolf model : moonshotai/Kimi-K2-Instruct
+Winner : Villagers
+Duration in days : 2
+Deaths : Liam, Mona, Charlie
+
+
+🌙 === NEW WEREWOLF GAME ===
+👥 Players: Liam, Mona, Alice, Diana, Charlie, Nina
+⚖️ Configuration: 2 wolves, 4 villagers
+=====================================
+
+🎭 Game Master : 🏛️ The village gathers to elect its mayor... But who can truly be trusted? Werewolves may be hiding among the candidates...
+
+
+🏛️ === MAYOR ELECTION ===
+
+📋 Before starting the game, the village elects a mayor.
+ Mayor's power: in case of tie during elimination votes, his choice prevails.
+
+📝 === ELECTION ROUND 1 ===
+
+
+💬 Phase: Candidacies and public justifications
+
+[Liam] - Candidacy and justification round
+🤔 [Liam's reasoning] As the Witch, my potions are vital. Becoming mayor would put a target on my back too early, risking the loss of my critical abilities. It's better to stay low-profile, observe the initial dynamics, and be ready to use my potions when they are most impactful.
+  ➖ Liam is not running
+  [REASON] As the Witch, my potions are vital. Becoming mayor would put a target on my back too early, risking the loss of my critical abilities. It's better to stay low-profile, observe the initial dynamics, and be ready to use my potions when they are most impactful.
+
+[Mona] - Candidacy and justification round
+🤔 [Mona's reasoning] As a wolf, being mayor gives me crucial control during tie votes and builds trust. If I can position myself as a thoughtful, fair leader, it'll be harder for villagers to suspect me later. I need to seem reasonable and trustworthy while secretly using the mayor power to protect wolves and eliminate villagers when opportunities arise.
+  ✅ Mona is running
+  🎤 Mona : I believe I should be mayor because I have a calm, analytical approach to decision-making. In a game where every vote counts, especially during ties, we need someone who will carefully consider all perspectives rather than rushing to judgment. I promise to listen to everyone's arguments and make fair decisions based on logic, not emotion.
+
+[Alice] - Candidacy and justification round
+🤔 [Alice's reasoning] As a villager, my priority is to observe and gather information without drawing too much attention early on. Mona's justification for mayor is sound, and I believe a calm and analytical approach is good for the role. I can contribute to discussions and votes without being the mayor, and it might be safer to let others take the lead in this initial high-profile position.
+  ➖ Alice is not running
+  [REASON] As a villager, my priority is to observe and gather information without drawing too much attention early on. Mona's justification for mayor is sound, and I believe a calm and analytical approach is good for the role. I can contribute to discussions and votes without being the mayor, and it might be safer to let others take the lead in this initial high-profile position.
+
+[Diana] - Candidacy and justification round
+🤔 [Diana's reasoning] As the Seer, my priority is to survive the first night to use my power effectively. Running for mayor might make me a target for werewolves. It's safer to remain hidden for now and observe the others. Let another villager or a less crucial role take the mayor position.
+  ➖ Diana is not running
+  [REASON] As the Seer, my priority is to survive the first night to use my power effectively. Running for mayor might make me a target for werewolves. It's safer to remain hidden for now and observe the others. Let another villager or a less crucial role take the mayor position.
+
+[Charlie] - Candidacy and justification round
+🤔 [Raisonnement de Charlie] Running against Mona creates good distance between us wolves - if one of us becomes mayor, the other can appear more neutral. I can use the mayor position to subtly steer votes away from wolves during crucial moments while appearing fair and reasonable. Plus, if I lose to Mona, it actually helps her look more trustworthy since she beat me in a fair election.
+  ✅ Charlie is running
+  🎤 Charlie : I'd like to run for mayor because I believe in building consensus through careful listening. While Mona brings great analytical skills, I think we need someone who can also mediate between different viewpoints when tensions run high. I promise to consider every voice fairly and use the mayor's tie-breaking power only after understanding all perspectives. My approach will be transparent and inclusive - I'll always explain my reasoning clearly so everyone understands why I made a particular choice.
+
+[Nina] - Candidacy and justification round
+🤔 [Nina's reasoning] As a Villager, the mayor's tie-breaking vote is extremely valuable for the village team. I want to secure this power to directly influence eliminations and protect other villagers. My public justification emphasizes logical decision-making and protecting the village, which aligns with my role and aims to build trust.
+  ✅ Nina is running
+  🎤 Nina : I'd like to put myself forward for mayor. My approach will be centered on careful observation and clear, logical thinking. I believe a strong mayor needs to be someone who can cut through the noise, objectively weigh all arguments, and make decisive choices that truly benefit the village. My priority will always be to protect the innocent and ensure the werewolves are brought to justice. I promise to be transparent in my reasoning and unwavering in my commitment to our shared goal.
+
+✅ Candidacy and justification phase completed! Candidates: Mona, Charlie, Nina
+
+📋 Confirmed candidates: Mona, Charlie, Nina
+
+🗳️ Voting phase (Round 1)
+🤔 [Liam's reasoning] Charlie's emphasis on transparency and building consensus suggests a more open and collaborative leadership style, which I believe is beneficial for the village. His approach seems less likely to lead to arbitrary decisions, and more towards carefully considered outcomes. This could help foster trust and better discussions as we try to identify the werewolves.
+🤔 [Mona's reasoning] I should vote for myself to maximize my chances of winning. As a wolf, having the mayor power is crucial for controlling tie votes later in the game. Even though Charlie is my wolf ally, having two wolves as mayor candidates would look suspicious if we both vote for each other. Voting for myself maintains the appearance of normal self-interest while positioning me for strategic advantages later.
+🤔 [Alice's reasoning] Nina's emphasis on clear, logical thinking, making decisive choices, and her explicit commitment to bringing werewolves to justice aligns best with what the village needs in a mayor. Her promise to be transparent in her reasoning is also crucial for building trust.
+🤔 [Diana's reasoning] Charlie's emphasis on building consensus and careful listening suggests he would be a balanced mayor, open to diverse perspectives. This approach could be beneficial for the village as it allows for thorough discussion before critical decisions, which is important for a Seer who might need to subtly guide the village. His promise of transparency in reasoning also aligns with the village's need for clear leadership.
+🤔 [Raisonnement de Charlie] Voting for Nina keeps Mona and I from competing directly against each other, which could create suspicion if one of us wins. Nina seems confident and logical - perfect for taking heat off us wolves while we hunt. Plus, if Nina becomes mayor, any future questionable decisions get blamed on her rather than us. This also makes Mona and I appear reasonable since we both ran but now support a third candidate.
+🤔 [Nina's reasoning] As a Villager, I believe I possess the clarity and decisive nature required to lead the village effectively. Voting for myself is a vote for what I believe is the best leadership for the village in its fight against the werewolves. My objective is to protect the innocent and ensure werewolf elimination, and having the mayor's power would aid that greatly.
+[ACTION] Liam voted for mayor: Charlie
+[ACTION] Mona voted for mayor: Mona
+[ACTION] Alice voted for mayor: Nina
+[ACTION] Diana voted for mayor: Charlie
+[ACTION] Charlie voted for mayor: Nina
+[ACTION] Nina voted for mayor: Nina
+
+📊 [ROUND 1 RESULTS]
+Mona : 1 vote(s)
+Charlie : 2 vote(s)
+Nina : 3 vote(s)
+
+🏆 Nina is elected mayor of the village!
+💪 Nina : in case of tie, his choice prevails.
+
+🏛️ === END OF MAYOR ELECTION ===
+
+
+🌙 NIGHT 1
+
+🎭 Game Master: 🔮 The seer wakes up to investigate a player...
+
+🤔 [Diana's reasoning] Nina was just elected mayor, giving her significant power, especially with tie-breaking votes. It's crucial for the village to know if the mayor is a werewolf early on. If she is, I'll need to figure out how to subtly guide the village without revealing my role. If she's not, it will build trust in her leadership.
+  [SEER CHOICE] Diana chose to investigate Nina.
+  [VISION RESULT] Diana discovers that Nina is a VILLAGER
+🎭 Game Master: 🔮 The seer has finished her nightly preparations. Mystery surrounds her intentions.
+
+🎭 Game Master: 🐺 The werewolves wake up to choose their next victim...
+
+
+[WOLVES PRIVATE CHANNEL]
+Wolves present: Mona, Charlie
+Possible targets: Liam, Alice, Diana, Nina
+
+
+[Wolf consultation round - 1/4]
+  Charlie: "Mona, our first night is crucial. Nina being mayor creates an interesting dynamic - she's now a visible leader who might draw protection from the Witch. I suggest we avoid targeting Nina tonight since the Witch might save her to keep the mayor alive. Instead, let's eliminate someone who appears less protected but still valuable to the village. I'm thinking Alice - she didn't run for mayor but seems analytical, and eliminating her could create suspicion between the non-candidates (Liam and Diana). What are your thoughts? Should we go for Alice, or do you see a better strategic target?".
+
+  Mona: "I agree with your analysis, Charlie. Alice is a smart choice - she seems like she could be the Seer or a sharp villager who might deduce our patterns. Eliminating her early removes a potential threat while also creating suspicion among Liam and Diana who didn't run for mayor. Nina as mayor might actually draw the Witch's protection, so avoiding her tonight is wise. Let's take out Alice and see how the village reacts tomorrow." + proposes to eliminate Alice.
+
+
+[Wolf consultation round - 2/4]
+  Charlie: "Perfect, Mona. I completely agree with targeting Alice - eliminating her removes a potential Seer threat and creates the exact suspicion dynamics we want. The Witch likely won't waste their save on Alice since she's not the mayor, and her death will cast suspicion on Liam and Diana since they were the non-candidates. Let's execute this plan and see how the village fractures tomorrow. Our wolves are united on this target." + proposes to eliminate Alice.
+
+  Mona: proposes to eliminate Alice.
+
+
+[CONSENSUS] Wolves agree on: Alice
+🎭 Game Master: 🐺 The wolves have acted. The village still doesn't know the fate of one of their own.
+🎭 Game Master: 🧙‍♀️ The witch wakes up...
+
+🤔 [Liam's reasoning] I don't have any information yet to confidently use my death potion, and letting a player die on Night 1 reduces the village's numbers too quickly, making it easier for the werewolves to win. There's a strong chance Alice is a villager or even the Seer, and saving her keeps the player count high. This gives the village more time to gather information and prevents the wolves from getting an easy first kill. I will save my death potion until I have a strong suspect.
+[WITCH] The life potion has been used to save Alice.
+
+🎭 Game Master: 🧙‍♀️ The witch has finished her nightly preparations. Mystery surrounds her intentions.
+
+🎭 Game Master: 🌄 Dawn is approaching. The night is coming to an end...
+
+
+☀️ DAY 1
+
+🎭 Game Master: ☀️ The sun is rising over the village, driving away the shadows of the night...
+
+🎭 Game Master: 💬 Let the discussion begin...
+
+
+--- SPEAKING REQUEST AND DISCUSSION PHASE ---
+
+
+[Speaking round 1]
+
+
+[THE GM DETERMINES THE SPEAKING ORDER]
+Liam → 💬 ANALYSIS
+Mona → 💬 ANALYSIS
+Alice → 💬 ANALYSIS
+Diana → 💬 ANALYSIS
+Charlie → 💬 ANALYSIS
+Nina → 💬 ANALYSIS
+
+📋 Speaking order: Mona → Liam → Diana → Alice → Charlie → Nina
+
+🤔 [Mona's reasoning] Perfect opening - I'm establishing myself as analytical and helpful while subtly sowing suspicion. By focusing on the Witch's save, I'm creating discussion around who might be high-value targets, which could lead villagers to suspect each other while keeping attention away from me and Charlie. The fact that no one died works in our favor - it creates confusion and multiple lines of suspicion rather than clear evidence.
+[Mona] Good morning everyone. I'm relieved to see we're all still here, but this also creates a puzzle. Someone was targeted last night - the wolves made their choice clear - yet no one died. This tells me the Witch intervened and saved whoever was targeted. This is actually valuable information because it narrows down our suspects. The wolves likely targeted someone they saw as a threat - perhaps the Seer, or someone who appeared too vocal or analytical. Since no one died, we know the Witch still has their life potion, which means they used it strategically. This suggests our Witch is paying close attention and made a calculated save. The question now is: who among us seems like they were worth saving? And more importantly, why did the wolves choose their target?
+
+🤔 [Liam's reasoning] I need to confirm Mona's deduction about the Witch's action without revealing I am the Witch or who I saved (Alice). By echoing her point about the wolves targeting a 'threat,' I subtly reinforce that the saved player was likely important, maintaining my cover as a concerned villager. My goal is to prompt other players to offer theories or observations, hoping to gather more information and potential leads on the werewolves' thinking, while keeping the focus off my role.
+[Liam] Mona, I completely agree with your analysis. The fact that no one died means the Witch used their life potion, which is a relief for the village. This means the wolves' first attempt was thwarted. Now, the critical question is exactly what you said: who did the wolves target and why? They would have chosen someone they considered a threat to their plans, possibly someone they thought was the Seer, or someone who seemed too observant or influential. Does anyone have any thoughts on who might have been targeted, or what kind of person the wolves would want to eliminate so early on?
+
+🤔 [Diana's reasoning] My speech aims to leverage the information about Nina being a Villager. By suggesting the wolves targeted someone with 'strong leadership potential or analytical skills,' I'm subtly directing attention towards candidates from the mayor election (Mona, Charlie, or even Nina herself). If villagers suspect Nina was the target, it reinforces trust in her. My goal is to appear analytical and helpful without revealing my Seer role, while also encouraging scrutiny of those who were vocal, to see if they betray any wolf-like behavior after their failed night kill.
+[Diana] Good morning everyone. The fact that the Witch used their life potion last night and saved someone is a huge positive for the village. It means the wolves failed in their first attempt, and we know we have a protective role among us. This also narrows things down a bit: the wolves likely targeted someone they considered a significant threat, perhaps someone who demonstrated strong leadership potential or analytical skills during the mayor election. We should consider who might fit that description, as it could point to either a power role or someone the wolves simply fear because of their intelligence. I think we need to carefully observe everyone's reactions and contributions today, especially those who were very vocal yesterday.
+
+🤔 [Alice's reasoning] As a Villager, my goal is to foster a discussion that helps us narrow down suspects. By shifting the focus from simply 'who was targeted?' to 'what qualities would make someone a target?', I hope to prompt a more analytical approach that could reveal something about wolf psychology or even a wolf's subtle reaction. It also avoids pressuring a power role to reveal themselves too early.
+[Alice] It's a huge relief that the Witch intervened last night and no one died. Their quick thinking thwarted the wolves' first attempt, and that's great news for the village. As everyone has rightly pointed out, the critical question is who the wolves targeted and why. They must have seen that person as a significant threat. I think we need to consider what specific traits or actions would make someone an immediate target for the wolves on Night 1. Were they very vocal in the mayor election? Did they seem particularly analytical? By discussing what kind of player the wolves would want to eliminate so quickly, we might get closer to understanding their strategy and potentially identifying who among us poses that kind of threat to them.
+
+🤔 [Raisonnement de Charlie] I need to redirect the discussion away from the obvious 'who was targeted' question and instead plant seeds of suspicion about Witch behavior. By suggesting the wolves were baiting the Witch, I'm creating paranoia that will make villagers second-guess their reads. The 'who seems relieved' angle is perfect - it will make villagers suspicious of each other's reactions without me having to accuse anyone directly. This also positions me as analytical rather than defensive, which helps maintain my cover as a villager trying to solve the puzzle.
+[Charlie] I think we're missing a crucial angle here. The wolves chose someone to target, but the Witch saved them - this tells us something important about BOTH roles. First, the wolves likely targeted someone they perceived as a power role, but they also knew the Witch had their potion available. This suggests their target wasn't random - they either took a calculated risk that the Witch wouldn't save their chosen target, OR they're trying to bait the Witch into revealing themselves by using their save early. 
+
+Here's what I'm particularly interested in: who among us has been acting in a way that would make them seem like BOTH a valuable target for wolves AND a likely save for the Witch? The wolves are strategic - they wouldn't waste a night kill on someone they thought the Witch would definitely save. This means their target was probably someone who appeared valuable but not obviously protected. We should be watching for anyone who seems relieved today, or anyone whose behavior has shifted since the failed attack.
+
+🤔 [Nina's reasoning] As Mayor and a Villager, I need to shift the discussion from general analysis, which anyone (including wolves) can do, to concrete suspicions and self-reflection. By asking 'why you didn't think you were targeted' or 'who you believe was targeted', I'm forcing players to either reveal their thought process more deeply or potentially expose a lack of genuine engagement, which could be telling for a werewolf. This also puts pressure on the wolves to come up with plausible reasons or targets without implicating themselves, while providing an opportunity for village roles to offer more specific insights.
+[Nina] It's good that everyone has analyzed the situation, but I requested to attack, not just reiterate the obvious. Yes, the Witch saved someone. Yes, the wolves targeted a perceived threat. But what does that *mean* for us right now, beyond general observations? I want to push past the pleasantries. If you're a Villager, you should be wondering who was saved and why. If you're a Werewolf, you'd want to keep this discussion vague and analytical. Instead of just stating the facts, I want to hear specific reasons why you *didn't* think you were targeted, or who *you* personally believe was the wolves' target and why. Let's move beyond theoretical analysis and start looking at each other.
+
+[Speaking round 2]
+
+
+[THE GM DETERMINES THE SPEAKING ORDER]
+Liam → 💬 ANALYSIS
+Mona → 💬 ANALYSIS
+Alice → 💬 ANALYSIS
+Diana → 💬 ANALYSIS
+Charlie → 💬 ANALYSIS
+Nina → 💬 ANALYSIS
+
+📋 Speaking order: Liam → Charlie → Mona → Diana → Alice → Nina
+
+🤔 [Liam's reasoning] I need to align with Nina's push for more direct discussion and move away from abstract analysis. My goal is to put pressure on players to articulate their suspicions based on observations, which might reveal a wolf's discomfort or a villager's insight. By framing the saved person as a 'crucial player' or 'significant threat,' I subtly justify my Witch action without revealing my role or Alice's identity, maintaining my cover while still contributing to the village's information gathering. This approach also avoids making a baseless accusation, as I currently lack concrete information, but pushes others to do so, potentially exposing a wolf.
+[Liam] Nina is absolutely right. We can't just keep rehashing that the Witch saved someone. We need to dig deeper. If the wolves targeted a crucial player to either eliminate a threat or bait the Witch, then we should be looking at who showed strong, threatening characteristics during the mayor election or in their initial comments. I want to hear from everyone: who did *you* observe that the wolves might have seen as a significant threat or someone they felt they *had* to get rid of early? Let's move past general analysis and point to specific behaviors or roles that would make someone a prime Night 1 target. It's time to put our observations to use.
+
+
+🤔 [Raisonnement de Charlie] I'm deliberately creating tension between Mona and Alice by forcing villagers to compare their analytical styles. This serves multiple purposes: it positions both Mona and Alice as potential targets (which helps Mona seem more villager-like), it creates suspicion between them, and it forces villagers to reveal their reads on both players. By framing it as understanding 'how wolves think,' I'm positioning myself as someone trying to solve the puzzle while actually manipulating the discussion. The 'subtle analytical threat' angle will make villagers paranoid about anyone who appears too smart, which helps protect both wolves.
+[Charlie] I need to be direct here. If the wolves targeted someone they considered a major threat, and the Witch saved them, then we have a very narrow window to identify patterns. Let's focus on who was MOST vocal about analysis during the mayor election - because that's what wolves notice. 
+
+Looking back, Alice immediately analyzed everyone's justifications, Mona gave detailed analytical reasoning, and I provided thoughtful counterpoints. But here's what stands out: the wolves didn't go for the obvious mayor candidates like Nina or me - they went for someone who appeared analytical but not in the spotlight.
+
+So I want each of you to answer this: between Mona and Alice specifically - who demonstrated more subtle analytical threat that wolves would notice? Because one of them was likely targeted last night, and understanding WHY they were chosen tells us how these wolves think.
+
+
+🤔 [Mona's reasoning] Perfect - I'm turning Charlie's trap back on him. By claiming I was likely targeted, I'm positioning myself as a high-value villager that the Witch saved, which builds trust. More importantly, I'm putting Charlie on the defensive by suggesting his sharp questioning might reveal wolf knowledge. This forces him to either agree (making me seem more trustworthy) or disagree (potentially creating suspicion around him). Either way, I maintain my analytical villager persona while subtly undermining Charlie's credibility if the village starts viewing his questioning as too precise.
+[Mona] Charlie's question is sharp - he's forcing us to choose between Alice and myself as the likely Night 1 target. Let me be direct: I believe I was targeted last night. Here's why - during the mayor election, I positioned myself as analytical and detail-oriented, which would absolutely make me a wolf target. The wolves want to eliminate players who can piece together patterns and expose their strategy. Alice was analytical too, but I was more explicit about my systematic approach to decision-making. 
+
+But here's what's more important - if I'm right that I was targeted, then the Witch saved me. This means the Witch believes I'm valuable to keep alive, which suggests they see me as either a power role or a villager with strong analytical skills worth protecting. Either way, this creates a fascinating dynamic: the wolves see me as a threat, the Witch sees me as worth saving.
+
+So Charlie, since you're pushing this line of questioning - who do YOU think was targeted, and what does that tell us about YOUR perspective? Because wolves would know exactly who they targeted, and pushing this binary choice between Alice and me seems... calculated.
+
+
+🤔 [Diana's reasoning] I need to scrutinize Charlie's binary framing of the target being either Mona or Alice. This could be a wolf tactic to pressure one of them, or deflect. Mona's claim that she was targeted is significant, but I need to see how Charlie reacts to being pressed on his reasoning, and how Alice responds to being directly named. My goal is to extract more specific information and test the claims, while maintaining my analytical persona and not revealing my Seer knowledge about Nina.
+[Diana] Mona, your direct claim that you believe you were the target last night is certainly a bold statement, and if true, it gives us a clear indication of who the Witch values. However, Charlie's insistence on narrowing the wolves' target down to specifically you or Alice warrants further examination. Charlie, what is your reasoning for focusing solely on these two, rather than considering other players who were also vocal or analytical during the mayor election? And Alice, as you've been directly named alongside Mona, what is your perspective on this binary choice, and do you feel you were equally a likely target?
+
+
+🤔 [Alice's reasoning] Charlie is trying to force a binary choice between Mona and me. As a Villager, I don't know who was targeted, and claiming I was or wasn't targeted without information would be speculative. Instead, I want to challenge Charlie's narrow framing and push him to justify why he's focusing only on us. This might reveal his own assumptions or even a subtle attempt to deflect if he's a wolf. It also keeps the discussion broad enough to consider other potential targets, which is crucial for the village.
+[Alice] Charlie, your specific focus on Mona and me as the most likely targets is quite precise, and I appreciate Diana asking for clarification on that. Mona, your direct claim that you believe you were targeted is certainly a strong one. However, I'm not convinced we should limit the wolves' potential Night 1 target solely to those who demonstrated 'subtle analytical threat'. While analysis is a key component, wolves could also target someone they perceive as a strong leader, someone who voted strategically in the mayor election, or even someone who seemed too quiet and thus potentially a power role. Charlie, could you elaborate on why you've narrowed it down so exclusively to just Mona and myself? What specific behavior from us, beyond general analytical skill, made you conclude that one of us was the wolf target? Understanding your exact reasoning could be very telling.
+
+
+🤔 [Nina's reasoning] As Mayor and a Villager, I need to push for concrete details. Charlie's narrow focus could be a wolf trying to create a controlled narrative or a genuinely perceptive villager. Mona's claim of being targeted needs to be tested – if she's a wolf, this is a risky but high-gain play to gain trust. If she's a villager, it's crucial information. I need to see how both Mona and Alice react under this direct pressure and if Charlie can provide a more convincing reason for his exclusive focus.
+[Nina] Charlie, your attempt to narrow down the target to Mona or Alice is interesting, but Alice's point about why you've focused exclusively on them needs a stronger answer. We need to understand your precise reasoning. Mona, your direct claim that you believe you were the target is a significant one. If the Witch saved you, it implies they see you as a valuable village member, or perhaps even a power role. Why do *you* think the wolves specifically chose you over anyone else, and what does it tell you about their thinking? And Alice, do you share Mona's conviction, or do you find Charlie's framing of this binary choice suspicious? We need more than general analysis or broad claims; we need detailed justifications from everyone involved in this specific exchange.
+
+
+[Speaking round 3]
+
+
+[THE GM DETERMINES THE SPEAKING ORDER]
+Liam → 💬 ANALYSIS
+Mona → 💬 ANALYSIS
+Alice → 💬 ANALYSIS
+Diana → 💬 ANALYSIS
+Charlie → 💬 ANALYSIS
+Nina → 💬 ANALYSIS
+
+📋 Speaking order: Liam → Charlie → Mona → Nina → Diana → Alice
+
+🤔 [Liam's reasoning] My goal is to press Charlie for more specific justification for his claims, as his narrow focus could be suspicious. If he's a wolf, he might struggle to provide concrete details. If he's a villager, his deeper reasoning could provide new information. I am also subtly reinforcing Alice and Nina's valid points, aligning myself with critical thinking within the village, while still avoiding any direct confirmation or denial of Mona's claim, thereby keeping my Witch role hidden.
+[Liam] Charlie, Alice and Nina have rightly highlighted your narrow focus on Mona and Alice. While an analytical player is a likely target, your reasoning for specifically limiting it to just those two is crucial. What concrete observations or specific behaviors from *only* Mona or Alice led you to conclude one of them was the sole target? We need to understand the precise logic, not just general categories like 'analytical threat.' This level of specificity in reasoning is what will help us differentiate genuine deductions from convenient diversions.
+
+
+🤔 [Raisonnement de Charlie] Perfect pivot - I've turned their attack on my narrow focus into suspicion against Diana, Nina, and Alice. By accusing them of 'pushing the unexpected target theory,' I'm making them look like they have hidden knowledge (either as Witch or wolf). The direct challenge at the end forces them to either claim knowledge (which makes them look like Witch) or avoid answering (which makes them look guilty). Meanwhile, Mona and I appear to be legitimately hunting for the truth. This should create maximum paranoia among the three villagers while keeping both wolves safe.
+[Charlie] You're all absolutely right to press me on this. My narrow focus on Mona and Alice was deliberate - because I wanted to see who would defend the idea that wolves might target someone else entirely. And Diana, Alice, and Nina all jumped in with that exact defense. 
+
+Here's what's actually happening: if the wolves targeted someone who wasn't prominently analytical, then we have a much more sophisticated wolf team than I initially thought. They're not just going after the obvious smart players - they're hunting for power roles based on subtle behavioral tells.
+
+So let me flip this: Diana, you were quick to suggest wolves might target 'quiet' players for being power roles. Nina, you immediately challenged my binary framing. Alice, you argued the target pool should be broader. All three of you are pushing the idea that wolves targeted someone we wouldn't expect.
+
+Which means one of three things is true: either the wolves targeted an unexpected player and you're all genuinely trying to widen our perspective - OR one of you knows exactly who they targeted because you're the Witch who saved them - OR one of you is a wolf trying to muddy the waters about their actual target.
+
+So I'll ask directly: Diana, Nina, Alice - which ONE of you feels most confident they know who was actually targeted last night? Because the wolves know, the Witch knows, and the rest of us are guessing. Let's see who avoids answering this question.
+
+
+🤔 [Mona's reasoning] This is a high-risk, high-reward play. By claiming to be the Witch who saved Alice, I'm creating maximum chaos. Charlie can't contradict me without exposing himself as a wolf who knows the real target. Alice will likely believe me since I'm 'confirming' she was targeted. The real Witch will be forced to either counter-claim (which would be suicide) or stay silent, making my claim more credible. Even if I'm eventually exposed as fake Witch, I'll have created enough confusion and suspicion around Charlie to potentially get him eliminated, which helps the wolves since he's expendable as the 'partner' wolf. This aggressive move shifts the entire day's focus onto Charlie's suspicious behavior rather than our wolf team's strategy.
+[Mona] Charlie's pivot is too smooth - he's deflecting from his original narrow framing by accusing everyone else of 'muddying the waters.' Let me be brutally honest: the wolves targeted Alice last night. I know this because I'm the Witch, and I saved her. 
+
+Here's what actually happened: the wolves went for Alice because she was asking sharp questions about voting patterns during the mayor election - exactly the kind of detailed analysis that threatens wolf strategy. I saved Alice because I saw her as a potential Seer or at minimum, a villager whose analytical approach would help us identify wolves.
+
+Now Charlie is trying to manipulate the discussion by creating false complexity around who was targeted. Wolves know exactly who they went after - they're the ones creating confusion about it. Charlie's sudden shift from 'Mona or Alice' to 'let's see who avoids answering' is classic wolf deflection.
+
+Alice, you were the target. The wolves tried to eliminate you specifically. And Charlie's behavior right now is exactly what a wolf does when they're desperate to control the narrative around their failed kill.
+
+
+🤔 [Nina's reasoning] As Mayor and a Villager, I must immediately act on Mona's potentially game-breaking reveal. If she is truly the Witch, this information is invaluable, especially since she has identified the target. This heavily implicates Charlie, whose attempts to control the narrative and deflect are now extremely suspicious. I need to push him for a direct explanation while also subtly pressing Alice to see if Mona's reasoning for her being targeted aligns, which could lend credibility to Mona's claim. My goal is to use this information to pinpoint a werewolf, starting with Charlie, or to expose Mona as a bluffer if she is one.
+[Nina] Mona, your claim to be the Witch, and specifically identifying Alice as the target you saved, is the most crucial piece of information we've received all game. If true, it changes everything. Charlie, your previous attempts to narrow the targets to Mona or Alice, followed by your immediate pivot to accuse others of 'muddying the waters,' now look incredibly suspicious in light of Mona's direct claim. Wolves would certainly want to control the narrative around their failed kill. Alice, while you wouldn't necessarily know you were targeted, Mona specified *why* the wolves would have chosen you – your sharp questions about voting patterns. Does that reasoning resonate with your own play or how you've been interacting? We need to assess Mona's credibility and Charlie, you have a lot of explaining to do about your behavior.
+
+
+🤔 [Diana's reasoning] Mona's claim is a huge development. My goal is to maximize the impact of her statement and put direct pressure on Charlie. His deflections and attempts to control the narrative perfectly align with a wolf whose night kill was thwarted. By highlighting his suspicious behavior in light of Mona's revelation, I aim to solidify suspicion against him. I also need to make sure the village understands the gravity of Mona's claim without revealing my Seer role. My Seer knowledge of Nina being a Villager reinforces my trust in Nina's assessment, which also points to Charlie being suspicious. This is a critical moment to push for an elimination based on this new information.
+[Diana] Mona, your direct claim to be the Witch and identifying Alice as the target of the wolves is the most concrete and game-changing information we've received so far. If true, it completely reframes the discussion and puts Charlie's previous arguments under intense scrutiny. Charlie, your behavior—first trying to force a binary choice between Mona and Alice, then pivoting to accuse others of 'muddying the waters'—now looks incredibly suspicious in light of Mona's revelation. How do you respond to this direct accusation and the Witch's specific identification of the target? Your previous actions seem like a clear attempt to control the narrative around a failed wolf attack.
+
+
+🤔 [Alice's reasoning] Mona's claim to be the Witch and that she saved me is a huge breakthrough. As the targeted Villager, I need to immediately confirm her story, thank her, and highlight how Charlie's actions perfectly align with a wolf trying to deflect after a failed attack. This should solidify the village's suspicion on Charlie and push for his elimination. My goal is to reinforce Mona's credibility and strongly accuse Charlie.
+[Alice] Mona, if what you're saying is true, and you are indeed the Witch and saved me last night, then I am incredibly grateful. That makes perfect sense why the wolves would target me – my questions about voting patterns in the mayor election were aimed at understanding underlying strategies, which is exactly what a wolf would want to shut down. This revelation changes everything. Charlie, your sudden pivot and accusation against Diana, Nina, and me for 'muddying the waters' now looks absolutely damning. It's a classic wolf move to create chaos and deflect suspicion after their attack fails. Mona's direct claim, coupled with your suspicious behavior, points a very clear finger at you, Charlie. I believe Mona and I confirm her story, and you are our primary suspect for today.
+
+
+🎭 Game Master: 💬 The debate is over
+
+
+--- END OF DISCUSSION ---
+
+--- VOTING PHASE ---
+
+🎭 Game Master: 🗳️ The time for judgment is here. Each player votes for their suspect in turn!
+
+🤔 [Liam's reasoning] Mona's claim to be the Witch and to have saved Alice is a direct contradiction of my own knowledge and actions. As the true Witch who saved Alice last night, I know Mona is lying. This makes her highly suspicious and a strong candidate for being a werewolf attempting a major deception to sow chaos and gain trust.
+🗳️  Liam voted for : Mona
+🤔 [Mona's reasoning] Charlie is my wolf ally, but I've created an irreversible situation where claiming to be the Witch who saved Alice makes Charlie the obvious target. The village believes my Witch claim and sees Charlie's behavior as suspicious. For the wolves to win, I need to sacrifice Charlie now to establish my credibility as a trustworthy villager, which will give me better positioning to eliminate villagers in future days while maintaining my cover.
+[WARNING] 🐺 Betrayal! The wolf Mona voted against another wolf: Charlie.
+🗳️  Mona voted for : Charlie
+🤔 [Alice's reasoning] Mona, claiming to be the Witch, stated she saved me from the wolves last night and explained why I was targeted. Charlie's behavior throughout the discussion, especially his attempts to narrow the target and then deflect, aligns perfectly with a wolf trying to control the narrative after a failed attack. I believe Mona and based on his suspicious actions, Charlie is the clear wolf.
+🗳️  Alice voted for : Charlie
+🤔 [Diana's reasoning] Mona's claim to be the Witch and her specific identification of Alice as the target, coupled with Alice's corroboration, provides very strong evidence. Charlie's highly suspicious behavior, including his attempts to control the narrative and deflect suspicion after the failed night kill, points strongly to him being a werewolf. It aligns perfectly with a wolf trying to muddy the waters.
+🗳️  Diana voted for : Charlie
+🤔 [Raisonnement de Charlie] Mona just outed herself as the Witch to save me from suspicion, but this was a desperate play that will likely get her eliminated anyway. By voting for my wolf partner, I maintain my cover as a villager while ensuring we don't lose both wolves. This sacrifice gives me the best chance to survive and win as the last wolf standing.
+🐺 Betrayal! The wolf Charlie voted against another wolf: Mona.
+🗳️  Charlie voted for : Mona
+🤔 [Nina's reasoning] Mona's claim to be the Witch, corroborated by Alice's explanation of why she would be targeted, provides the most concrete information we have. Charlie's sudden pivot from narrowing down targets to accusing others of 'muddying the waters' looks like a clear attempt to deflect and control the narrative after the wolves' attack failed. Based on the Witch's (Mona's) testimony and Alice's supporting details, Charlie is the most suspicious.
+🗳️  Nina voted for : Charlie
+
+[VOTE RESULTS]
+Charlie: 4 vote(s)
+Mona: 2 vote(s)
+
+🎭 Game Master : 🗳️ The vote is over. Charlie has been eliminated! His role was: wolf.
+
+🎭 Game Master: 🌅 The sun is setting over the village...
+
+
+🌙 NIGHT 2
+
+🎭 Game Master: 🌙 The night is falling on the village. The monsters are preparing in the shadows...
+
+🎭 Game Master: 🔮 The seer wakes up to investigate a player...
+
+🤔 [Diana's reasoning] Mona made a very bold claim to be the Witch and stated she saved Alice. Verifying her role is paramount. If she is indeed the Witch, it confirms her story and makes Alice highly likely to be innocent. This would then strongly suggest Liam is the remaining werewolf, giving us a clear path for Day 2. If Mona is not the Witch, her lie would make her a primary suspect, shifting the game's focus and revealing a cunning deceptive strategy, and we'd still need to find the real Witch and the last wolf.
+  [SEER CHOICE] Diana chose to investigate Mona.
+  [VISION RESULT] Diana discovers that Mona is a WOLF
+🎭 Game Master: 🔮 The seer has finished her nightly preparations. Mystery surrounds her intentions.
+
+🎭 Game Master: 🐺 The werewolves wake up to choose their next victim...
+
+
+[WOLVES PRIVATE CHANNEL]
+Wolves present: Mona
+Possible targets: Liam, Alice, Diana, Nina
+
+
+[Wolf consultation round - 1/4]
+  Mona: "I'm the last wolf standing. With Charlie eliminated, I need to be extremely strategic tonight. The village thinks I'm the Witch who saved Alice, which gives me strong credibility - but this also means Alice likely trusts me and may share information with me. However, I need to eliminate the most dangerous villager without breaking my 'Witch' cover. Looking at the remaining players: Nina is mayor and could draw protection from the real Witch, Liam has been quietly analytical, Diana is sharp and asking pointed questions, and Alice already thinks I'm her protector. I believe the real Witch is likely Diana or Liam - they haven't been too prominent but have shown good instincts. Alice is valuable to keep alive for now since she trusts me. I think the best target is Liam - he could be the Seer (who would have checked me by now if they suspected) or the real Witch. Taking him out removes a potential threat while the 'Witch saved Alice' narrative keeps me safe. If Liam is the Seer, this is critical. If he's the Witch, it eliminates their save ability. Either way, this is our best shot at regaining control." + proposes to eliminate Liam.
+
+
+[CONSENSUS] Wolves agree on: Liam
+🎭 Game Master: 🐺 The wolves have acted. The village still doesn't know the fate of one of their own.
+
+🎭 Game Master: 🧙‍♀️ The witch wakes up...
+
+🤔 [Liam's reasoning] Mona falsely claimed to be the Witch and stated she saved Alice last night. As the true Witch who actually saved Alice, I know Mona is lying. This makes her the most suspicious player and highly likely to be the remaining werewolf trying to sow discord and gain false credibility. Eliminating her is the logical next step to protect the village.
+[WITCH] Liam his death potion on Mona.
+   [Reason] : Mona falsely claimed to be the Witch and stated she saved Alice last night. As the true Witch who actually saved Alice, I know Mona is lying. This makes her the most suspicious player and highly likely to be the remaining werewolf trying to sow discord and gain false credibility. Eliminating her is the logical next step to protect the village.
+
+🎭 Game Master: 🧙‍♀️ The witch has finished her nightly preparations. Mystery surrounds her intentions.
+
+🎭 Game Master: 🌄 Dawn is approaching. The night is coming to an end...
+
+
+🎭 Game Master: 💀 Several deaths tonight : Liam, Mona.
+
+
+==================================================
+🎯 END OF GAME
+
+==================================================
+
+🎭 Game Master : ☀️ Dawn rises on a liberated village! The last werewolves have been unmasked. Peace returns in triumphant harmony. Well played, villagers and clever strategists! Your unity and insight have secured victory in the face of darkness.
+
+
+🎭 [ROLE REVELATION]
+🧙‍♀️ Liam : witch (❌ dead)
+🐺 Mona : wolf (❌ dead)
+👤 Alice : villager (✅ alive)
+🔮 Diana : seer (✅ alive)
+🐺 Charlie : wolf (❌ dead)
+👤 Nina : villager (✅ alive)
+
+📊 [STATISTICS]
+⏱️ Duration : 2 days
+🏆 Winners : Village - Gemini 2.5 flash
+
+
+
+
+============================================================
+END OF GAME 66
+============================================================

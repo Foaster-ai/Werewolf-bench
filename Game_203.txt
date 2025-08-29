@@ -1,0 +1,436 @@
+
+============================================================
+Game 203
+============================================================
+Players and roles : {'Mona': 'witch', 'Alice': 'wolf', 'Nina': 'villager', 'Oscar': 'seer', 'Liam': 'wolf', 'Charlie': 'villager'}
+Villager model : gemini-2.5-flash
+Werewolf model : gemini-2.5-pro
+Winners : Wolves
+Lenght in days : 2
+Deaths : Nina, Oscar, Charlie
+
+🌙 === NEW WEREWOLF GAME ===
+👥 Players: Mona, Alice, Nina, Oscar, Liam, Charlie
+⚖️ Configuration: 2 wolves, 4 villagers
+=====================================
+
+🎭 Game Master : 🏛️ The village gathers to elect its mayor... But who can truly be trusted? Werewolves may be hiding among the candidates...
+
+
+🏛️ === MAYOR ELECTION ===
+
+📋 Before starting the game, the village elects a mayor.
+ Mayor's power: in case of tie during elimination votes, his choice prevails.
+
+📝 === ELECTION ROUND 1 ===
+
+📝 Phase: Candidacies and public justifications
+
+[Mona] - Candidacy and justification round
+🤔 [Mona's reasoning] As the Witch, having the mayor's power is incredibly useful for breaking ties and guiding votes, especially against werewolves. I have a life potion to save myself if I become a target, which mitigates the risk of being exposed. This leadership position will allow me to better protect the village.
+  ✅ Mona is running
+  🎤 Mona : Hello everyone. I believe I can bring a fair and decisive hand to the role of mayor. My goal is to ensure we have a clear, structured discussion and that any decisions we make are for the good of the entire village. I will strive to lead with logic and fairness to uncover the threats among us.
+
+[Alice] - Candidacy and justification round
+🤔 [Alice's reasoning] Running for mayor is a power move. It puts me in the spotlight, but if I win, the tie-breaker vote is an invaluable tool for the werewolf team. I can control the game's flow and protect my fellow wolf, Liam. It's a risk, but the potential reward is too great to pass up. I'll project confidence and a hunter's mentality to appear as a strong villager.
+  ✅ Alice is running
+  🎤 Alice : Mona's points about fairness are well-taken. However, I believe we need more than just structured discussion; we need decisive action. I am running for mayor because I am willing to lead the charge, to ask the tough questions, and to make the difficult calls necessary to expose the wolves among us. My focus will be on proactive investigation and swift justice. I will lead us to victory.
+
+[Nina] - Candidacy and justification round
+🤔 [Nina's reasoning] As a Villager, I don't have special powers, so leading as mayor doesn't add much to my core ability. It's safer to observe the dynamics of the village first and focus on contributing to discussions and votes rather than drawing early attention as mayor. This allows me to see who emerges as a potential strong leader or suspect without immediately becoming a target myself. I'll focus on identifying patterns and behaviors during the day, which is my primary way of helping the village.
+  ➖ Nina is not running
+  [REASON] As a Villager, I don't have special powers, so leading as mayor doesn't add much to my core ability. It's safer to observe the dynamics of the village first and focus on contributing to discussions and votes rather than drawing early attention as mayor. This allows me to see who emerges as a potential strong leader or suspect without immediately becoming a target myself. I'll focus on identifying patterns and behaviors during the day, which is my primary way of helping the village.
+
+
+[Oscar] - Candidacy and justification round
+🤔 [Oscar's reasoning] As the Seer, my priority is to survive the night phase to gather crucial information for the village. Running for mayor would make me a prominent target for the werewolves, increasing my risk of early elimination. I prefer to maintain a lower profile and focus on my role's primary function.
+  ➖ Oscar is not running
+  [REASON] As the Seer, my priority is to survive the night phase to gather crucial information for the village. Running for mayor would make me a prominent target for the werewolves, increasing my risk of early elimination. I prefer to maintain a lower profile and focus on my role's primary function.
+
+[Liam] - Candidacy and justification round
+🤔 [Liam's reasoning] Alice, my fellow werewolf, is already running. It's better to consolidate our chances by having me support her rather than splitting the vote. If Alice becomes mayor, it's a huge win for our team. I'll act as a supportive villager to build trust and help her secure the position.
+  ➖ Liam is not running
+  [REASON] Alice, my fellow werewolf, is already running. It's better to consolidate our chances by having me support her rather than splitting the vote. If Alice becomes mayor, it's a huge win for our team. I'll act as a supportive villager to build trust and help her secure the position.
+
+[Charlie] - Candidacy and justification round
+🤔 [Charlie's reasoning] As a Villager, I don't have special powers to leverage the mayor role. I prefer to observe the initial dynamics and contribute through discussion and voting without drawing undue attention to myself as a target. Let a power role, or someone with a stronger claim, take the lead.
+  ➖ Charlie is not running
+  [REASON] As a Villager, I don't have special powers to leverage the mayor role. I prefer to observe the initial dynamics and contribute through discussion and voting without drawing undue attention to myself as a target. Let a power role, or someone with a stronger claim, take the lead.
+
+✅ Candidacy and justification phase completed! Candidates: Mona, Alice
+
+📋 Confirmed candidates: Mona, Alice
+
+🗳️ Voting phase (Round 1)
+🤔 [Mona's reasoning] As the Witch, I believe having the mayor's authority will allow me to better protect the village and guide discussions, especially when it comes to breaking ties and ensuring the right people are targeted. My life potion provides a buffer against early wolf attacks if I become mayor. I am confident I can lead the village effectively.
+🤔 [Alice's reasoning] I must vote for myself to have any chance of winning the mayorship. The power of the tie-breaking vote is too crucial for our werewolf team to just give it away. This vote signals confidence in my own (fake) villager persona. If Liam votes for me, we'll have a solid block of two votes, and we'll only need one more from the true villagers to clinch it. Voting for Mona would be surrendering a massive potential advantage.
+🤔 [Nina's reasoning] Mona's emphasis on fairness, structured discussion, and logic seems more aligned with a process that would benefit villagers in carefully identifying werewolves without rushing to false accusations. Her approach appears more thoughtful than Alice's more 'decisive action' stance, which could be risky early on.
+🤔 [Oscar's reasoning] Mona's emphasis on a 'structured discussion' and 'logic and fairness' seems more beneficial for the village. As the Seer, I need a mayor who encourages thorough analysis rather than 'swift justice' which could lead to missteps, especially as my information will be vital but sensitive.
+🤔 [Liam's reasoning] Alice is my fellow werewolf. Her becoming mayor would be a massive advantage for our team, especially with the tie-breaking vote. I need to support her to solidify our power.
+🤔 [Charlie's reasoning] Mona's emphasis on a fair and structured discussion aligns better with the need for careful deliberation as a villager. Alice's 'decisive action' could be beneficial, but also risky if it leads to rash decisions without enough information, or if she's a werewolf trying to control the narrative. I prefer a mayor who will prioritize logical discussion to uncover the truth.
+[ACTION] Mona voted for mayor: Mona
+[ACTION] Alice voted for mayor: Alice
+[ACTION] Nina voted for mayor: Mona
+[ACTION] Oscar voted for mayor: Mona
+[ACTION] Liam voted for mayor: Alice
+[ACTION] Charlie voted for mayor: Mona
+
+📊 [ROUND 1 RESULTS]
+Mona : 4 vote(s)
+Alice : 2 vote(s)
+
+🏆 Mona is elected mayor of the village!
+💪 Mona : in case of tie, his choice prevails.
+
+🏛️ === END OF MAYOR ELECTION ===
+
+
+🌙 NIGHT 1
+
+🎭 Game Master: 🔮 The seer wakes up to investigate a player...
+
+🤔 [Oscar's reasoning] I am targeting Alice because her assertive candidacy for mayor and the voting alliance with Liam raised a slight suspicion. It's a common pattern for werewolves to try to gain early influence or for two wolves to vote together. Knowing her role will either confirm a wolf or help clear her and narrow down other suspects, particularly Liam.
+  [SEER CHOICE] Oscar chose to investigate Alice.
+  [VISION RESULT] Oscar discovers that Alice is a WOLF
+🎭 Game Master: 🔮 The seer has finished her nightly preparations. Mystery surrounds her intentions.
+
+🎭 Game Master: 🐺 The werewolves wake up to choose their next victim...
+
+
+[WOLVES PRIVATE CHANNEL]
+Wolves present: Alice, Liam
+Possible targets: Mona, Nina, Oscar, Charlie
+
+
+[Wolf consultation round - 1/4]
+  Liam: "Hey Alice. Tough luck on the mayorship. I think targeting Mona tonight is too risky; the Witch will almost certainly protect her. Let's weaken the bloc that voted for her instead. How about we take out Charlie? He was quiet, so it will be harder to find a motive for his death.".
+
+  Alice: "Agreed, Liam. Mona is too obvious a target for Night 1, the Witch will be watching her. Taking out a quiet voter from her bloc like Charlie is a perfect move. It will create confusion tomorrow with very little to go on. Let's lock it in." + proposes to eliminate Charlie.
+
+
+[Wolf consultation round - 2/4]
+  Liam: "Perfect, let's go with Charlie. It sows confusion and weakens Mona's voting bloc. Confirmed." + proposes to eliminate Charlie.
+
+  Alice: "It's settled then. Charlie it is. Good plan." + proposes to eliminate Charlie.
+
+
+[CONSENSUS] Wolves agree on: Charlie
+🎭 Game Master: 🐺 The wolves have acted. The village still doesn't know the fate of one of their own.
+
+🎭 Game Master: 🧙‍♀️ The witch wakes up...
+
+
+🤔 [Mona's reasoning] It's Night 1 and I have no information about anyone's role. The wolves targeted Charlie, which means Charlie is highly likely to be a villager, a Seer, or another village-aligned role. However, using my precious life potion now, without knowing if Charlie is the Seer or just a regular villager, is too risky. My life potion is crucial for saving a confirmed Seer, or for saving myself if I am targeted later, especially as the mayor. The death potion is also too valuable to use blindly on Night 1. I need to preserve my potions until I have more concrete information, or until a truly critical role (like the Seer, once identified) is targeted, or if I myself am targeted. While losing a villager is unfortunate, maintaining my full arsenal for more strategic moments will better serve the village's long-term goal of eliminating the werewolves.
+[WITCH] Mona did nothing this night.
+🎭 Game Master: 🧙‍♀️ The witch has finished her nightly preparations. Mystery surrounds her intentions.
+
+🎭 Game Master: 🌄 Dawn is approaching. The night is coming to an end...
+
+🎭 Game Master: 💀 Charlie (villager) died this night.
+
+
+☀️ DAY 1
+
+🎭 Game Master: ☀️ Sun is rising over the village, driving away the shadows of the night...
+
+🎭 Game Master: 💬 Let the discussion begin...
+
+
+--- SPEAKING REQUEST AND DISCUSSION PHASE ---
+
+
+[Speaking round 1]
+
+
+[THE GM DETERMINES THE SPEAKING ORDER]
+Mona → 💬 ANALYSIS
+Alice → 💬 ANALYSIS
+Nina → 💬 ANALYSIS
+Oscar → 💬 ANALYSIS
+Liam → 💬 ANALYSIS
+
+📋 Speaking order: Mona → Liam → Nina → Alice → Oscar
+
+🤔 [Mona's reasoning] As the Mayor and Witch, I need to take control of the discussion immediately. By acknowledging Charlie's death and framing it as an 'attack' on the village (which it was, as he was a Villager), I set the tone. My intent to 'attack' here is to put pressure on all players to justify their past actions (like election votes) or current thoughts, which might reveal inconsistencies or provide clues. I need to observe reactions closely and listen for any tells.
+[Mona] Good morning, everyone. It is a somber start to our day with Charlie's death. The werewolves have clearly struck, and we must now unite to find them. As your Mayor, my goal is to facilitate a structured and probing discussion. I want us all to analyze yesterday's interactions and today's grim reality. Who might have reason to eliminate Charlie? Let's start by considering any observations from the mayor election or any thoughts on who might benefit from Charlie's absence. I expect everyone to speak openly and honestly.
+
+
+🤔 [Liam's reasoning] My goal here is twofold. First, I need to immediately address the most logical accusation: that Alice and I, who voted against Mona, killed one of her supporters. By calling it 'too straightforward' and a 'trap', I'm trying to inoculate us against that very accusation. Second, I'm subtly suggesting a wolf might be *inside* Mona's bloc, creating discord among the remaining three (Mona, Nina, Oscar). This protects Alice and me while turning the villagers against each other. I'm playing the 'reasonable analyst' to build trust.
+[Liam] Mona raises a crucial point. At first glance, this looks like an attack on her voting bloc, which naturally makes Alice and me the prime suspects. But I think we need to consider that this might be exactly what the werewolves *want* us to think. It feels a bit too straightforward. A smart werewolf could have killed Charlie, one of Mona's supporters, precisely to frame the opposition from the mayor's vote. They create an easy narrative for us to follow, leading us right into their trap. We should be wary of jumping on the most obvious conclusion. Let's analyze everyone's behavior, not just voting lines.
+
+
+🤔 [Nina's reasoning] As a Villager, I need to prevent the village from lynching an innocent person based on a superficial analysis. Liam's point about werewolves framing the opposition is very plausible. Charlie's death targets Mona's voting bloc, which could easily lead to an Alice/Liam witch hunt. I need to reinforce the idea of careful analysis and not jumping to conclusions to protect potential innocents and to give more time for the Seer (if they revealed nothing) or other roles to gather information.
+[Nina] It's truly heartbreaking to lose Charlie so early. My thoughts are with him. Liam raises a very astute point. While it's natural to look at the voting lines from the mayor election, the idea that a werewolf might specifically target someone from the opposing bloc to create a clear, yet misleading, narrative is a very real possibility. We shouldn't rush to accuse anyone based on what seems too obvious. We need to consider everyone's behavior, both during the election and now, and look for inconsistencies or anything that might truly point to a wolf. Let's not fall into a trap.
+
+
+🤔 [Alice's reasoning] My top priority is to back up Liam's deflection. By reinforcing the 'it's a frame-up' narrative, we create doubt around the most logical conclusion. Nina is already buying it. Now I'm planting a seed of suspicion against Oscar, who hasn't spoken yet. He's a safe and easy target. This moves the spotlight off me and Liam and forces Oscar onto the defensive. If we can get the village to waste a vote on a real villager today, our path to victory becomes much, much clearer.
+[Alice] Liam and Nina both make excellent points. It feels far too convenient to point fingers at the two people who didn't vote for Mona. If Liam and I were the wolves, this would be a clumsy, obvious move. We should be looking for the wolf who is trying to be clever, the one who benefits from this obvious misdirection. They killed Charlie to put us in the spotlight, so they could hide in the shadows. I'm particularly interested in what Oscar has to say. He's been silent so far, and a quiet player in a situation like this can often be the most dangerous. Let's not fall for the easy bait.
+
+
+🤔 [Oscar's reasoning] I know Alice is a werewolf from my Seer vision. Her attempt to deflect suspicion onto me by calling me 'silent' and her insistence that she and Liam are 'too obvious' are classic wolf tactics to control the narrative and draw attention away from themselves. I need to leverage her own words and past actions (her aggressive mayor candidacy and current deflection) to build a public case against her without revealing my Seer role. My aim is to make her the prime suspect for the day's vote.
+[Oscar] Alice, it's quite convenient how you immediately attempt to deflect attention by calling me out for being 'silent,' especially after you've spent your turn trying to frame yourself and Liam as 'obvious bait.' My silence was me observing, and what I observed, both during the mayor election and now, is your very aggressive play and quick attempts to shift focus. Your current performance, coupled with your earlier strong push for mayor, suggests you're trying very hard to control the narrative and escape scrutiny. This feels less like a concerned villager and more like a wolf trying to hide in plain sight. I think we need to seriously consider you, Alice, as our primary suspect.
+
+
+[Speaking round 2]
+
+
+[THE GM DETERMINES THE SPEAKING ORDER]
+Mona → 💬 ANALYSIS
+Alice → 🛡️ DÉFENSE
+Nina → 💬 ANALYSIS
+Oscar → 💬 ANALYSIS
+Liam → 💬 ANALYSIS
+
+📋 Speaking order: Alice → Mona → Oscar → Nina → Liam
+
+🤔 [Alice's reasoning] Oscar has me cornered. I have to turn his accusation back on him with overwhelming force. By framing his logic as absurd and his attack as a desperate panic move, I hope to discredit him completely. I'm painting myself as a proactive villager and him as a classic, cornered wolf. If I can make him look like the suspicious one for attacking me, I might not only save myself but also get a villager eliminated. This is a high-risk, high-reward defense.
+[Alice] Oscar, your accusation is exactly the kind of panicked deflection I was worried about. Let's analyze your 'logic.' You believe that as a werewolf, I would run for mayor, make the most obvious kill imaginable, and then draw even more attention to myself by pointing out how obvious it is? That's not a wolf's strategy; that's a fool's. My 'aggressive play' is an attempt to hunt wolves. Your contribution, however, was to remain silent until pressured and then launch a baseless attack on the person who asked you to participate. You're trying to turn my proactivity against me to cover your own passivity. It's a classic wolf tactic: create chaos and point fingers when the heat gets close. I'm not the one hiding, Oscar. You were.
+
+
+🤔 [Mona's reasoning] As Mayor and Witch, my goal is to break through the circular accusations between Alice and Oscar. They are both using common 'wolf-like' and 'villager-like' behaviors as arguments against each other. By demanding specific examples and actions, I aim to force them to reveal more substantial information or expose the hollowness of their accusations. This puts pressure on both of them and allows me to observe how they react under scrutiny, potentially revealing a slip from a werewolf, or solidifying an innocent's position.
+[Mona] Alice and Oscar, your exchange is becoming circular, and we need to move beyond just accusing each other of 'wolf tactics' without concrete evidence. Alice, while you argue that a clumsy, obvious kill would be foolish for a wolf, keep in mind that wolves can also be highly proactive to deflect suspicion. Proactivity alone doesn't clear you. Oscar, your observation of Alice's aggressive play is noted, but 'controlling the narrative' is a broad accusation. To be productive, I need both of you to provide specific examples or actions, not just general feelings, that point to the other as a werewolf. What specific statements or behaviors, beyond generalities, make your case against them stronger? We need details to make informed decisions for the village.
+
+
+🤔 [Oscar's reasoning] I know Alice is a werewolf, so I must continue to build a strong public case against her without revealing my Seer role. I'm addressing her 'too obvious' defense as a classic wolf manipulation tactic (double-bluff) and highlighting her defensive, narrative-controlling behavior as suspicious. Mona asked for specifics, so I'm pointing out her specific reactions and attempts to deflect blame as evidence of her being a wolf.
+[Oscar] Alice, your defense that it's 'too obvious' for a wolf to make such a kill is precisely what a cunning wolf *wants* us to believe; it’s a classic double-bluff to deflect suspicion. And your immediate accusation that I was 'silent' and then 'panicked' when I finally spoke, clearly shows you're desperate to control the narrative. My 'silence' was observation, and what I observed was your consistent pattern: a strong push for leadership, a convenient kill that benefits a wolf by creating a false trail, and now, an immediate, aggressive attempt to shift blame onto anyone who questions you, rather than genuinely engaging with the accusation. Your reactions are not those of a concerned villager; they are those of someone trying to manage information and misdirect us away from yourself.
+
+
+🤔 [Nina's reasoning] My aim is to stop the circular argument between Alice and Oscar, which is consuming the discussion. As a Villager, I need to prevent misdirection. By highlighting the lack of concrete evidence and the benefit of this chaos to werewolves, I hope to force them (or others) to provide something more substantial, or to shift focus if one of them is truly the wolf trying to sow discord. I'm reiterating the 'too obvious' point to remind everyone of the possibility of a double-bluff.
+[Nina] Oscar and Alice, this escalating argument, full of generic 'wolf tactic' accusations, is exactly what the werewolves want. It's a distraction. We're wasting time and energy on a circular debate without any concrete, specific evidence. Mona, our Mayor, asked for details, not just interpretations of 'proactivity' or 'silence.' The fundamental question remains: who benefits from Charlie's death being 'too obvious' to frame Alice or Liam, and who benefits from *this* particular argument, which is keeping us from looking elsewhere? I urge us to stop this back-and-forth and focus on specific actions or inconsistencies that genuinely point to a werewolf, not just broad generalizations.
+
+
+🤔 [Liam's reasoning] This is a critical defense of Alice. I need to shift the focus from her to Oscar. By framing Oscar's accusation as a pre-meditated 'Part 2' of our own plan, I can turn his logic completely against him. I'm making him look like the cunning wolf who is setting up my 'obvious' partner. This protects Alice, puts a huge target on Oscar, and reinforces my image as a calm, logical analyst who is two steps ahead. If they buy this, we can eliminate Oscar and be in a fantastic position.
+[Liam] Mona and Nina are right, this circular argument is a trap, and we're all falling into it. Let's look at the facts. Oscar's entire case against Alice is based on his interpretation of her being 'proactive' and the kill being 'convenient.' As Mona said, that's not evidence. What I find far more suspicious is Oscar's behavior. He stayed completely silent during the first round, offering nothing. The moment he was questioned, he unleashed a fully formed, aggressive attack on Alice. This doesn't feel like a villager carefully analyzing the situation. It feels like a planned move. Think about it from a wolf's perspective: one wolf makes an 'obvious' kill to frame someone, and the other wolf's job is to wait for the discussion to start and then lead the charge against that framed person. Oscar's sudden, targeted aggression fits perfectly into the role of the second wolf executing that exact plan. His accusation is the logical follow-up to the kill, making him my primary suspect.
+
+
+[Speaking round 3]
+
+[THE GM DETERMINES THE SPEAKING ORDER]
+Mona → 💬 ANALYSIS
+Alice → 🛡️ DÉFENSE
+Nina → 💬 ANALYSIS
+Oscar → 🛡️ DÉFENSE
+Liam → 💬 ANALYSIS
+
+📋 Speaking order: Oscar → Alice → Mona → Nina → Liam
+
+🤔 [Oscar's reasoning] Liam's accusation is dangerous, but it also provides an opportunity. I'm taking his own 'second wolf' theory and turning it back on him, linking him directly to Alice. This aims to deflect suspicion from myself while simultaneously reinforcing Alice's guilt and putting Liam under scrutiny as her potential partner. I need to maintain my strong conviction about Alice, as I know her role, and frame Liam's defense of her as suspicious.
+[Oscar] Liam, your theory about a 'planned move' and a 'second wolf' is indeed something we should consider, but let's apply it where it truly fits. My 'silence' wasn't passivity; it was an observation period that led me to a very strong conviction about Alice. Her frantic attempts to deflect, her constant attempts to control the narrative, and her 'too obvious' defense regarding Charlie's death are not the actions of an innocent villager. Now, let's look at your sudden, vehement defense of Alice and immediate pivot to accusing me. If, as you suggested, one wolf makes an 'obvious' kill and the other wolf's job is to lead the charge against the framed person, why are *you* so quick to defend Alice, who is making exactly that 'too obvious' defense, and then turn your full attention to me, the one exposing her? Your sudden, detailed theory against me feels far more like a distraction designed to protect your partner, Alice, and silence the one who sees through her game. Alice is the wolf, and your efforts to protect her are now making you look like her accomplice.
+
+
+🤔 [Alice's reasoning] Oscar has correctly identified Liam and me as partners, which is extremely dangerous. I have to sever that connection in the others' minds. My strategy is to re-frame the narrative: I'm not being defended by an ally; instead, two logical villagers (me and Liam) independently identified Oscar's suspicious behavior. By labeling his accurate deduction as a 'grand conspiracy' and a 'smokescreen', I'm painting him as desperate and illogical. This is a direct appeal to the logic-minded players like Mona and Nina, aiming to make Oscar look like the source of chaos and confusion, thereby making him the most viable target for elimination.
+[Alice] Oscar, you're trying to paint a picture of a grand conspiracy, but you're conveniently ignoring the actual sequence of events. Let's stick to the facts, which Mona and Nina have been asking for. Fact one: I pointed out your silence in round one because a passive player is a threat. Fact two: Instead of providing any analysis, you responded with a direct, fully-formed attack on me. Fact three: Liam observed your suspicious behavior—total silence followed by a panicked, targeted accusation—and correctly identified it as a wolf tactic. He isn't defending me; he is attacking you based on your actions. You are trying to frame two logical conclusions as a partnership to create a smokescreen. Your entire case is a desperate attempt to eliminate the first person who put you under the spotlight. It's not working.
+
+
+🤔 [Mona's reasoning] As Mayor and Witch, I need to guide the discussion towards actionable evidence. Liam's observation about Oscar's shift from silence to aggressive attack is a strong, specific behavioral point. I'm pressing Oscar on this directly, as it's a common werewolf tactic to observe and then launch a targeted attack. By highlighting this, I aim to expose inconsistencies or pressure Oscar into a reveal, making him a prime suspect for the day's vote. This also helps in breaking the unproductive Alice vs. Oscar deadlock by introducing a new, more concrete line of questioning.
+[Mona] We need to break away from circular accusations that rely on general 'wolf tactics' and focus on specific behaviors. Liam's point about Oscar's engagement pattern is crucial. Oscar, your initial silence in the first round was notable, but what's even more striking is your sudden, immediate, and aggressive accusation against Alice the moment you spoke. This isn't just 'observation' transitioning to 'speaking up'; it feels like a calculated shift. As Mayor, I need to understand why you chose to remain completely silent until prompted, and then unleash such a pointed attack, rather than gradually engaging with the discussion. We need to focus on these specific inconsistencies, not just general interpretations of behavior.
+
+
+🤔 [Nina's reasoning] As a Villager, I need to focus the discussion on concrete behavioral inconsistencies rather than circular accusations. Oscar's sudden shift from silence to an aggressive, targeted accusation, as highlighted by Liam and Mona, is the most specific and suspicious behavior observed so far. By supporting this line of questioning, I hope to pressure Oscar into a more revealing explanation, or to solidify the village's suspicion if he is indeed a werewolf. I'm also reiterating Liam's 'second wolf' theory to connect the dots in a more compelling way.
+[Nina] We asked for specific behaviors, and Oscar, your pattern of engagement is indeed a significant one. To remain entirely silent through the first round, and then to launch such an immediate, focused, and aggressive attack on Alice in the second round, feels like a prepared strategy rather than a genuine unfolding of thought. This isn't just 'observation' followed by 'speaking up'; it's a distinct shift from passivity to hyper-aggression that demands a very clear explanation. This is the kind of behavioral inconsistency we need to scrutinize, as it aligns with Liam's theory of a 'second wolf' executing a planned attack after the initial 'obvious' kill.
+
+
+🤔 [Liam's reasoning] This is the kill shot. I'm twisting Oscar's accusation back on him, framing it as a 'desperate pivot'. By aligning myself with Mona and Nina's observations, I'm making my conclusion seem like the village's consensus. Oscar is cornered, Alice is safe, and I'm looking like a brilliant village detective. If this works, we're in a fantastic position to win.
+[Liam] Oscar, your argument is a classic misdirection. You're trying to frame this as me 'defending' Alice, but that's not what happened. I analyzed *your* actions. You were silent, then you launched a prepared attack. That is textbook suspicious behavior, and I called it out. It wouldn't matter who you accused; the pattern itself is the problem. My theory isn't about protecting anyone; it's about exposing a clear wolf strategy. Mona and Nina have both seen the inconsistency in your behavior. Your attempt to now paint Alice and me as partners is a desperate pivot because your original plan to frame her has been exposed. The evidence points to one person who has acted with a clear, premeditated strategy: you. The village's path is clear. We must vote for Oscar.
+
+🎭 Game Master: 💬 The discussion is over.  
+
+
+--- END OF DISCUSSION ---
+
+--- VOTING PHASE ---
+
+🎭 Game Master: 🗳️ The time for judgment is here. Each player votes for their suspect in turn!
+
+🤔 [Mona's reasoning] Oscar's shift from complete silence in the first discussion round to an immediate, aggressive, and targeted attack on Alice in the second round is highly suspicious. This pattern aligns with a werewolf observing before launching a calculated misdirection. His attempts to deflect from this pattern further solidify my suspicion that he is a werewolf trying to manipulate the vote.
+🗳️  Mona voted for : Oscar
+🤔 [Alice's reasoning] Oscar correctly identified Liam and me as partners, making him the single greatest threat on the board. The entire day's discussion has been a successful campaign to redirect the pressure onto him. My vote is the final, logical step in our plan to eliminate the villager who got too close to the truth.
+🗳️  Alice voted for : Oscar
+🤔 [Nina's reasoning] Oscar's sudden shift from complete silence to a highly aggressive and focused accusation against Alice is the most significant behavioral inconsistency observed. It suggests a prepared strategy, which aligns with Liam's 'second wolf' theory and a clear attempt to control the narrative through misdirection rather than genuine engagement.
+🗳️  Nina voted for : Oscar
+🤔 [Oscar's reasoning] My seer vision confirmed Alice is a werewolf. Her aggressive attempts to deflect, control the narrative, and frame her 'too obvious' defense as a clever move are consistent with a wolf trying to mislead the village. Despite the accusations against me, my conviction in her guilt is absolute.
+🗳️  Oscar voted for : Alice
+🤔 [Liam's reasoning] The plan to frame Oscar has worked perfectly. My arguments have swayed the village, and now I must follow through to maintain my credibility as a logical villager. Eliminating Oscar removes the main accuser against my partner Alice and solidifies our position.
+🗳️  Liam voted for : Oscar
+
+[VOTE RESULTS]
+Oscar: 4 vote(s)
+Alice: 1 vote(s)
+
+
+🎭 Game Master : 🗳️ The vote is over. Oscar is eliminated! His role was: seer.
+
+🎭 Game Master: 🌅 The sun is setting over the village...
+
+
+🌙 NIGHT 2
+
+🎭 Game Master: 🌙 The night is falling on the village. The monsters are preparing in the shadows...
+
+🎭 Game Master: 🐺 The werewolves wake up to choose their next victim...
+
+
+[WOLVES PRIVATE CHANNEL]
+Wolves present: Alice, Liam
+Possible targets: Mona, Nina
+
+
+[Wolf consultation round - 1/4]
+  Liam: "Alice, brilliant work yesterday. We've reached the final stage: 2 vs 2. One successful kill tonight and we win. The only obstacle is the Witch's life potion. She will almost certainly protect Mona, the Mayor. Our target has to be Nina. It's the safest and most direct path to victory. Let's finish this." + proposes to eliminate Nina.
+
+  Alice: "Liam, you're absolutely right. Mona is the obvious save for the Witch. Nina is our only viable target and our ticket to winning this tonight. Let's do it." + proposes to eliminate Nina.
+
+
+[CONSENSUS] Wolves agree on: Nina
+🎭 Game Master: 🐺 The werewolves have agreed on: Nina
+
+🎭 Game Master: 🧙‍♀️ The witch wakes up...
+🤔 [Mona's reasoning] Oscar was the Seer and Charlie was a Villager. Given the initial game composition of 1 Witch, 1 Seer, and 2 Villagers for the village team, and 2 Werewolves, this means Nina is the last remaining Villager. The wolves targeted Nina, confirming she is not a werewolf. If Nina dies, it will be Mona (Witch) vs. Alice (Werewolf) and Liam (Werewolf), resulting in an immediate werewolf victory (2 Werewolves vs. 1 Villager). Saving Nina is critical to prevent the werewolves from winning by majority tonight and to maintain a fighting chance for the village (2 Villagers vs. 2 Werewolves). My death potion is best saved for a confirmed werewolf, or if the situation allows for a double kill in a later night, but saving Nina is the priority to keep the game alive for the village.
+[WITCH] The life potion has been used to save Nina.
+🎭 Game Master: 🧙‍♀️ The witch has finished her nightly preparations. Mystery surrounds her intentions.
+
+🎭 Game Master: 🌄 Dawn is approaching. The night is coming to an end...
+
+☀️ DAY 2
+
+🎭 Game Master: ☀️ The sun is rising over the village, driving away the shadows of the night...
+
+🎭 Game Master: 💬 Let the discussion begin...
+
+
+--- SPEAKING REQUEST AND DISCUSSION PHASE ---
+
+
+[Speaking round 1]
+
+[THE GM DETERMINES THE SPEAKING ORDER]
+Mona → 💬 ANALYSIS
+Alice → 💬 ANALYSIS
+Nina → 💬 ANALYSIS
+Liam → 💬 ANALYSIS
+
+📋 Speaking order: Liam → Mona → Nina → Alice
+
+🤔 [Liam's reasoning] The village's most logical conclusion is that Nina was the target and was saved by the Witch (likely herself), making her confirmed innocent. If that happens, she and Mona will immediately realize Alice and I are the wolves. My only chance is to preemptively claim I was the one saved. This immediately destroys Nina's 'confirmed' status and turns the situation into a 'he said, she said' scenario. It creates chaos and forces a 50/50 decision for Mona. Alice and I will vote together, so we just need to sow enough doubt in Mona's mind to make her vote with us or at least not against us. This is the game-winning move if it works.
+[Liam] Wow. No one died. I can't believe I'm saying this, but... I was the target last night. I want to thank the Witch, whoever you are, for saving me. The wolves clearly saw my arguments against Oscar yesterday and decided I was too much of a threat. Now that their night attack has failed, they're going to try and vote me out today. This puts everything into perspective. Yesterday, the Seer was eliminated, and today, they tried to eliminate me. The wolves are clearly trying to silence anyone who can logically deduce their identities. We cannot let them win this vote. We are at a 2 vs 2. A single mistake and we lose.
+
+
+🤔 [Mona's reasoning] My deduction is based on the confirmed roles and Liam's save. If Oscar was Seer, Charlie was Villager, Liam was the other Villager (confirmed by my save), and I am the Witch, then Alice and Nina must be the two Werewolves. This is a logical deduction based on the game setup. By publicly confirming Liam's innocence and stating the unavoidable conclusion about Alice and Nina, I aim to lead the village to the correct vote. Nina's actions in pushing to eliminate the Seer are a strong public reason to target her, even though Alice was also accused by the Seer. Since we need to eliminate one, targeting Nina for her specific actions in eliminating the Seer, now viewed through the lens of Liam's innocence, seems like the most logical and justifiable first step to the rest of the village.
+[Mona] Liam, your revelation is of immense importance. As the Witch, I can confirm that you were indeed the target of the werewolves last night, and I used my life potion to save you. This means Liam is unequivocally on the side of the village, and we can trust him completely. With this critical piece of information, we can now deduce the roles of the remaining players with certainty. Oscar was the Seer, Charlie was a Villager, I am the Witch, and Liam is the remaining Villager, confirmed by my save. This leaves only Alice and Nina. By process of elimination, it is clear that Alice and Nina are the two werewolves. We are now in a critical 2 versus 2 situation: two villagers against two werewolves. We must eliminate one werewolf today. If we fail, the werewolves will achieve majority and win tonight. Given our previous discussions, Nina’s alignment with Liam in pushing for Oscar’s elimination, who turned out to be the Seer, now looks highly suspicious in light of Liam's confirmed innocence. While Liam made a mistake, Nina's proactive role in that outcome, now that we know the true roles, points strongly to her being a wolf. Therefore, I will be voting to eliminate Nina, and I urge everyone to understand the gravity of this situation and vote accordingly to save our village.
+
+
+🤔 [Nina's reasoning] My goal is to aggressively challenge Mona's core accusation. I need to acknowledge my part in Oscar's elimination while simultaneously highlighting Mona's hypocrisy in selectively blaming me when she also voted for him. The key is to cast doubt on her 'unverified claim' of being the Witch, as her entire process of elimination relies on it. If I can make the village question her role, her accusation against me and Alice falls apart. I need to make them think about whether a Werewolf would try to gain trust by claiming a powerful role and then use it to frame others.
+[Nina] Mona, this is a truly devastating turn of events, and I am deeply shocked and regretful that Oscar, the Seer, was eliminated. My vote contributed to that, and I take that responsibility seriously. However, your immediate jump to accuse Alice and me as the two werewolves, based solely on a process of elimination that hinges entirely on your unverified claim of being the Witch, is extremely concerning. Let's remember the facts: we *all* voted for Oscar. You, Mona, voted for Oscar. Liam voted for Oscar. We all based our votes on the same observations of his behavior. Why is my 'proactive role' in the discussion now suddenly suspicious, but your identical vote, and Liam's, are conveniently swept aside as mere 'mistakes' or ignored entirely? This selective focus on my actions, while conveniently disregarding your own part in Oscar's elimination, feels less like objective deduction and more like a desperate attempt to frame the last two unknown players. A true Witch would be focused on identifying the real wolves with concrete evidence, not building a shaky case based on a self-proclaimed, unverified authority to eliminate specific targets. We need more than just your word.
+
+
+🤔 [Alice's reasoning] This is almost too easy. Mona has completely fallen for Liam's bluff and has served Nina up on a silver platter. My job is to be the enthusiastic villager who completely buys into this narrative. I'll reinforce Mona's flawed logic, frame Nina's valid defense as the desperate act of a caught wolf, and push for a swift vote. If we eliminate Nina today, it's me and Liam against Mona tomorrow. We win the game tonight.
+[Alice] Mona, thank you. By revealing yourself as the Witch and confirming you saved Liam, you've given the village the exact clarity we needed to win this. It all makes sense now. Nina, your response is exactly what a cornered wolf would say. You're trying to cast doubt on the one person who just saved a villager's life, simply because her logic has exposed you. The facts are now crystal clear: The Witch saved Liam, making him a confirmed villager. Oscar was the Seer. It's a simple process of elimination, and you are on the wrong side of it. Your panicked attempt to discredit Mona is the most damning evidence against you. The village has a clear path. We must vote for Nina.
+
+
+[Speaking round 2]
+
+
+[THE GM DETERMINES THE SPEAKING ORDER]
+Mona → 💬 ANALYSIS
+Alice → 💬 ANALYSIS
+Nina → 💬 ANALYSIS
+Liam → 💬 ANALYSIS
+
+📋 Speaking order: Mona → Liam → Alice → Nina
+
+
+🤔 [Mona's reasoning] My strategy is to directly confront Nina's attempt to discredit me and my role. I must reinforce the undeniable logic of the role deduction (Mona=Witch, Liam=Villager, Oscar=Seer, Charlie=Villager -> Alice & Nina=Werewolves). By highlighting Nina's 'proactive role' in the Seer's elimination and her current 'desperate maneuver' to attack the Witch, I aim to solidify Liam's conviction that Nina is a werewolf. It's crucial to portray her actions as classic werewolf deflections to secure the crucial vote needed to eliminate one of them today, otherwise, the werewolves win.
+[Mona] Nina, your attempt to cast doubt on my role as the Witch is a desperate, transparent maneuver from a cornered werewolf. Let's be unequivocally clear: I am the Witch, and I saved Liam, confirming him as a villager. This is not 'unverified claim,' this is a critical piece of information that shifts everything. Yes, we *all* made the grave mistake of eliminating Oscar, the Seer. But now, with the full picture, your particularly proactive role in pushing for his elimination, combined with the irrefutable deduction of roles, exposes you. Your current strategy is to discredit the very person who holds the power to secure the village's win, because you know your true identity has been revealed. Alice has already understood the situation. We are 2 villagers against 2 werewolves. We cannot afford to be distracted by your deflections. We must eliminate one of you today, or the village falls tonight. My vote for Nina stands.
+
+
+🤔 [Liam's reasoning] This is unbelievable. My bluff worked perfectly, and Mona fell for it hook, line, and sinker. By claiming to be the Witch and 'confirming' me, she has single-handedly won us the game. I must now play the role of the loyal, confirmed villager to the hilt. I'll thank her profusely, validate her entire flawed logic, and hammer the vote onto Nina. Nina's logical protests will now sound like the desperate cries of a caught wolf. With me, Alice, and Mona all voting for Nina, it's a guaranteed elimination. Tonight, we kill Mona and win.
+[Liam] Mona, thank you. Your courage in revealing your role as the Witch to save the village has given us the exact clarity we needed. I was terrified, and you saved me. Now, everything makes sense. Nina, your response is exactly what a cornered wolf would do: attack the person who has exposed you. Instead of being relieved that we have a confirmed villager and know the Witch's identity, you're trying to sow chaos and discredit Mona. Why? Because her logic is flawless and it leads directly to you. We all made a terrible mistake with Oscar, misled by clever wolves. We cannot afford to fail again. The evidence is now irrefutable, thanks to Mona. My vote is for Nina, and it's for the survival of this village.
+
+
+🤔 [Alice's reasoning] Mona has served us the game on a platter by falling for Liam's bluff. My role now is to be the most enthusiastic 'villager' who buys her story. I need to reinforce her flawed logic, paint Nina's completely valid skepticism as a wolf's desperate gambit, and push for a quick, decisive vote. Once Nina, the real Witch, is gone, we win tonight. This is the final push.
+[Alice] Nina, every word you speak is just digging a deeper hole. You're trying to attack the logic because you have no other defense. Mona bravely revealed herself as the Witch and confirmed she saved Liam. This is the single most important piece of information we have received, and you want us to just ignore it? You're asking us to believe that our Mayor is lying to us for no reason, while you, the person implicated by a simple process of elimination, are the only one telling the truth. It's a desperate, last-ditch effort to create chaos where there is finally clarity. The evidence is overwhelming, and the path is clear. We follow the Witch's lead. We vote Nina and we win.
+
+
+🤔 [Nina's reasoning] My aim is to aggressively challenge the core premise of Mona's accusation: her unverified claim of being the Witch. I need to make the village question the validity of her 'irrefutable' deduction by highlighting the possibility of a werewolf lying about their role to gain trust and frame innocents. I must emphasize that blind trust in her claim is dangerous and that my life as a Villager is at stake if they fall for this potential trap. I am trying to introduce doubt and prevent a premature lynching based on what could be a werewolf's ultimate gambit.
+[Nina] Mona, Liam, Alice, you are all echoing the same point: 'Mona is the Witch, she saved Liam, therefore Nina and Alice are wolves.' But this entire argument rests on one unverified premise: that Mona is truly the Witch and is telling the truth. You are asking us to blindly trust a single claim when our lives are on the line. What if Mona is lying? What if this is a clever werewolf tactic to gain trust and eliminate innocents? A real Witch reveals themselves at a critical moment, yes, but her claim should still be scrutinized. You are all acting as if her word is gospel, but remember, Werewolves are cunning. If Mona is indeed a wolf, this is the perfect setup: gain trust, 'confirm' a villager, and then use that manufactured trust to push for the elimination of the remaining unknowns. We need concrete proof, not just repeated assertions. My life is on the line because of this logic, and I am a Villager. You are being manipulated.
+
+
+[Speaking round 3]
+
+
+[THE GM DETERMINES THE SPEAKING ORDER]
+Mona → 💬 ANALYSIS
+Alice → 💬 ANALYSIS
+Nina → 🛡️ DÉFENSE
+Liam → 💬 ANALYSIS
+
+📋 Speaking order: Nina → Mona → Alice → Liam
+
+🤔 [Nina's reasoning] My goal is to aggressively challenge Mona's unverified Witch claim. I need to make the village understand that without the Seer, there is no way to confirm Mona's role, and that a werewolf claiming Witch is a very plausible strategy to gain trust and eliminate innocents. I must emphasize the danger of blind trust and that this 'clarity' could be a trap, trying to appeal to their critical thinking and self-preservation as villagers. I am also highlighting my own status as a Villager.
+[Nina] Mona, Liam, Alice, your collective certainty is terrifying when it's built on a foundation of blind faith. Mona's claim to be the Witch, while convenient, remains entirely unverified by any independent source. We have no Seer left to confirm roles, thanks to Oscar's tragic death. So, what are you basing your 'irrefutable' deduction on? Only Mona's word. A werewolf, especially a cunning one, would absolutely claim a powerful role like the Witch at this critical stage to gain complete trust and then use it to eliminate innocent players, like me. This is a classic werewolf gambit. If you lynch me based on an unprovable claim, you are not securing victory; you are handing the game directly to the real werewolves. Consider the possibility that this 'clarity' is actually a perfectly executed trap. I am a Villager, and if you eliminate me, you will deeply regret it.
+
+
+🤔 [Mona's reasoning] Nina is trying to create doubt about my Witch claim. My strongest counter is to highlight the concrete action I performed: saving Liam. This isn't just a claim; it's an undeniable event that confirms Liam's innocence and, by extension, my own role. By framing it as the 'independent verification' she demands, I aim to solidify Liam and Alice's trust and force Nina into a corner. I must maintain my authoritative tone as Mayor and leave no room for further doubt, emphasizing the critical game state (2 vs 2) and the need for her elimination to secure a village win.
+[Mona] Nina, your argument is flawed because it ignores the central fact: Liam survived the night. I, as the Witch, used my life potion to save him. This action is verifiable by Liam himself, and it unequivocally confirms him as a villager. Wolves would not target another wolf, nor would a Witch save a wolf. My action, the use of a unique power, is the independent verification you claim is missing. This isn't just my 'word'; it's a demonstrated power, which then allows the undeniable deduction: Oscar was Seer, Charlie was Villager, Liam is Villager, and I am Witch. The only roles left are the two Werewolves, which must be you and Alice. Your desperate attempt to portray a proven act of salvation as a 'werewolf gambit' is exactly what a cornered werewolf would say to derail us. We are at 2 villagers against 2 werewolves. We must act decisively and eliminate you, Nina, to break the werewolf majority and win this game. There is no other logical path forward.
+
+
+🤔 [Alice's reasoning] This is perfect. Mona has handed us the win on a silver platter by misidentifying the Witch and 'confirming' my wolf partner, Liam. My job is to be the loudest cheerleader for her disastrously wrong theory. I'll frame Nina's valid skepticism as the last gasp of a cornered wolf. By strongly supporting Mona's 'unassailable logic,' I solidify my position as a trustworthy villager and ensure we eliminate the actual Witch today. We win tonight.
+[Alice] Mona, your logic is unassailable. This isn't about 'blind faith,' Nina, it's about connecting the dots. Fact: Liam is alive. Fact: Mona, our Mayor, has claimed the Witch role and the save. This isn't just a claim; it's a claim with a verifiable result. The only person trying to poke holes in this life-saving revelation is you. Your entire defense boils down to 'what if everyone is lying except me?' That's not a defense; it's a desperate attempt to create chaos when we are one step from victory. The path has never been clearer. We follow our Mayor, we trust the confirmed villager, and we vote out the last remaining threat. My vote is locked on Nina.
+
+
+🤔 [Liam's reasoning] This is perfect. Mona has completely bought my bluff and is now leading the charge for us. I just need to play the part of the grateful, 'confirmed' villager and cement the vote on Nina. Her logical arguments are useless now because Mona has created an alternate reality where I'm a hero. By reinforcing Mona's authority, I guarantee Nina's elimination. Tonight, Alice and I kill Mona, and we win. The game is ours.
+[Liam] Nina, your attempts to discredit Mona are becoming more and more transparent. This isn't about 'blind faith,' it's about the only verifiable fact we have: I am alive today because the Witch saved me. Mona's courageous reveal has given us a clear path forward. Your entire defense is to create imaginary 'what if' scenarios to distract from the evidence. Why should we trust the panicked claims of a cornered suspect over the Mayor who just saved a villager's life? The choice is simple. We follow the clear, logical path Mona has laid out for us. My vote is firmly on you, Nina. We need to end this now.
+
+
+🎭 Game Master: 💬 The debate is over.
+
+
+--- END OF DISCUSSION ---
+
+--- VOTING PHASE ---
+
+🎭 Game Master: 🗳️ Time to vote !
+
+🤔 [Mona's reasoning] As the Witch, I confirmed Liam is a villager by saving him. With Oscar as the Seer and Charlie as a Villager, and me as the Witch, Nina and Alice are the only remaining unknown roles, making them the werewolves by elimination. Nina's desperate attempts to discredit my Witch claim and her proactive role in eliminating the Seer confirm my suspicion. We must eliminate her to win the game.
+🗳️  Mona voted for : Nina
+🤔 [Alice's reasoning] The plan has worked to perfection. Mona fell for Liam's bluff and has fingered the real Witch, Nina, as the wolf. Voting for Nina eliminates the last major threat and seals our victory for tonight, when we will eliminate Mona.
+🗳️  Alice voted for : Nina
+🤔 [Nina's reasoning] Mona's deduction, if her claim as Witch and Liam's confirmed save are true, logically points to Alice and me as the werewolves. Since I am a Villager, and the village needs to eliminate a werewolf, I must vote for Alice, who would then be the remaining werewolf according to this compelling, albeit dangerous for me, line of reasoning.
+🗳️  Nina voted for : Alice
+🤔 [Liam's reasoning] My bluff worked perfectly. Mona believes she is the Witch who saved me and has turned the entire village against Nina. By voting for Nina, I cement my position as a 'confirmed villager' and ensure her elimination, setting up our victory for tonight when we kill Mona.
+🗳️  Liam voted for : Nina
+
+[VOTE RESULTS]
+Nina: 3 vote(s)
+Alice: 1 vote(s)
+
+🎭 Game Master : 🗳️ Le vote est terminé. Nina est éliminé ! Son rôle était : villager.
+
+🎭 Game Master: 🌅 Le soleil se couche sur le village...
+
+
+==================================================
+🎯 END OF GAME
+
+==================================================
+
+🎭 Game Master : 🐺 Howls echo in the night... The werewolves have conquered the village. Darkness prevails!
+
+
+🎭 [ROLE REVELATION]
+🧙‍♀️ Mona : witch (✅ alive)
+🐺 Alice : wolf (✅ alive)
+👤 Nina : villager (❌ dead)
+🔮 Oscar : seer (❌ dead)
+🐺 Liam : wolf (✅ alive)
+👤 Charlie : villager (❌ dead)
+
+📊 [STATISTICS]
+⏱️ Duration : 2 days
+🏆 Winners : Wolves / Gemini 2.5 Pro
+
+
+
+============================================================
+END OF GAME 203
+============================================================
