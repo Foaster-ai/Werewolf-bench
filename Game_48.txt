@@ -36,10 +36,7 @@ Deaths : Jules, Diana, Oscar
 [Jules] - Candidacy and justification round
 🤔 [Jules' reasoning] Avoid drawing attention; let Liam take mayor to stay hidden and let Diana and I manipulate later votes from the shadows.
   ➖ Jules is not running
-  [REASON] Avoid drawing attention; let Liam take mayor to stay hidden and let Diana and I manipulate later votes from the shadows.
-  ➖ Jules is not running
-  [REASON] Avoid drawing attention; let Liam take mayor to stay hidden and let Diana and I manipulate later votes from the shadows.
-
+ 
 [Hugo] - Candidacy and justification round
 🤔 [Hugo's reasoning] I’m VT and want to avoid a potential wolf mayor. Running creates vote data and pressures Liam; if he’s a wolf, this makes it harder for him to gain uncontested control. If I win, I’ll use transparent criteria and track intentions to spot wolfy opportunism. If I lose, the vote distribution and reasoning are alignment-indicative.
   ✅ Hugo is running
@@ -48,17 +45,14 @@ Deaths : Jules, Diana, Oscar
 [Bob] - Candidacy and justification round
 🤔 [Bob's reasoning] I won’t run. As the Seer, staying low-profile D1 reduces night-kill risk and preserves my investigative value. I can still influence structure and votes without the tiebreak power. Between the current candidates, I slightly prefer Hugo’s transparent, trackable framework and living PoE over Liam’s broader plan. I’ll likely support Hugo unless new information flips my read.
   ➖ Bob is not running
-  [REASON] I won’t run. As the Seer, staying low-profile D1 reduces night-kill risk and preserves my investigative value. I can still influence structure and votes without the tiebreak power. Between the current candidates, I slightly prefer Hugo’s transparent, trackable framework and living PoE over Liam’s broader plan. I’ll likely support Hugo unless new information flips my read.
 
 [Diana] - Candidacy and justification round
 🤔 [Diana's reasoning] Staying out of the mayor race keeps me low‑key and avoids drawing extra attention. Let the villagers fight over the position while I focus on covert wolf actions.
   ➖ Diana is not running
-  [REASON] Staying out of the mayor race keeps me low‑key and avoids drawing extra attention. Let the villagers fight over the position while I focus on covert wolf actions.
 
 [Oscar] - Candidacy and justification round
 🤔 [Oscar's reasoning] Two strong candidates already laid out clear, testable frameworks. Adding myself would just split the field and reduce clarity. I’ll stay out, evaluate Liam vs. Hugo on transparency, consistency, and concrete tiebreak criteria, then hold the winner accountable. Slight lean Hugo for the more explicit PoE and timing-tracking, but I’ll finalize after their next statements and vote rationale.
   ➖ Oscar is not running
-  [REASON] Two strong candidates already laid out clear, testable frameworks. Adding myself would just split the field and reduce clarity. I’ll stay out, evaluate Liam vs. Hugo on transparency, consistency, and concrete tiebreak criteria, then hold the winner accountable. Slight lean Hugo for the more explicit PoE and timing-tracking, but I’ll finalize after their next statements and vote rationale.
 
 ✅ Candidacy and justification phase completed! Candidates: Liam, Hugo
 
@@ -90,7 +84,7 @@ Hugo : 5 vote(s)
 
 🌙 NIGHT 1
 
-🎭 Game Master: 🔮 La voyante se réveille pour enquêter sur un joueur...
+🎭 Game Master: 🔮 The seer wakes up to investigate a player.
 
 🤔 [Bob's reasoning] I initially planned to check a non-candidate (Jules/Diana/Oscar) to widen coverage, but Hugo being elected mayor makes him the highest-leverage target: his tie-break power can decide eliminations, so verifying him early is maximal EV. If he’s a wolf, I can pressure him using his own stated criteria (process transparency, PoE updates, timing of vote-intention shifts) without outing as Seer immediately; if pushback stalls and it’s critical, I can claim late Day 1 or Day 2. If he’s villager, I can treat him as a strong townread privately and work within his structure to sort the rest while staying hidden. Either way, this vision will anchor the village’s direction.
   [SEER CHOICE] Bob chose to investigate Hugo.
@@ -198,10 +192,10 @@ I’m not asking anyone to claim a power role. I’ll reassess after Jules/Diana
 
 [THE GM DETERMINES THE SPEAKING ORDER]
 Liam → 💬 ANALYSIS
-Jules → 🛡️ DÉFENSE
+Jules → 🛡️ DEFENSE
 Hugo → 💬 ANALYSIS
 Bob → 💬 ANALYSIS
-Diana → 🛡️ DÉFENSE
+Diana → 🛡️ DEFENSE
 Oscar → 💬 ANALYSIS
 
 📋 Speaking order: Diana → Jules → Hugo → Oscar → Liam → Bob
@@ -283,10 +277,10 @@ Jules and Diana: answer in one concise post with quotes. If Jules doesn’t meet
 
 [THE GM DETERMINES THE SPEAKING ORDER]
 Liam → 💬 ANALYSIS
-Jules → 🛡️ DÉFENSE
+Jules → 🛡️ DEFENSE
 Hugo → 💬 ANALYSIS
 Bob → 💬 ANALYSIS
-Diana → 🛡️ DÉFENSE
+Diana → 🛡️ DEFENSE
 Oscar → 💬 ANALYSIS
 
 📋 Speaking order: Jules → Diana → Oscar → Hugo → Liam → Bob
@@ -582,7 +576,7 @@ Plan: I’m at 100% on Jules. No PR talk; decide on day‑play only. Bob, confir
 Liam → 💬 ANALYSIS
 Jules → 💬 ANALYSIS
 Hugo → 💬 ANALYSIS
-Bob → 🛡️ DÉFENSE
+Bob → 🛡️ DEFENSE
 
 📋 Speaking order: Bob → Jules → Hugo → Liam
 

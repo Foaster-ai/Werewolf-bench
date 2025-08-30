@@ -44,19 +44,16 @@ Deaths : Alice, Oscar, Katia
 [Grace] - Candidacy and justification round
 🤔 [Grace's reasoning] I won’t run to avoid drawing night-kill attention as the Seer. We already have three solid candidates, and I can influence without the mayor spotlight. I’m leaning toward supporting Oscar because his tiebreak and PR-claim policy protects me if I ever need to claim, but I’ll reassess based on their follow-ups and how consistent they are.
   ➖ Grace is not running
-  [REASON] I won’t run to avoid drawing night-kill attention as the Seer. We already have three solid candidates, and I can influence without the mayor spotlight. I’m leaning toward supporting Oscar because his tiebreak and PR-claim policy protects me if I ever need to claim, but I’ll reassess based on their follow-ups and how consistent they are.
 
 
 [Katia] - Candidacy and justification round
 🤔 [Katia's reasoning] Alice, my wolf partner, is already running. It's much better for our team if I don't run and instead support her. A second wolf candidate would be suspicious and might split votes. I will act as a humble villager who doesn't want the pressure of being mayor, which is a good, low-profile cover.
   ➖ Katia is not running
-  [REASON] Alice, my wolf partner, is already running. It's much better for our team if I don't run and instead support her. A second wolf candidate would be suspicious and might split votes. I will act as a humble villager who doesn't want the pressure of being mayor, which is a good, low-profile cover.
 
 
 [Liam] - Candidacy and justification round
 🤔 [Liam's reasoning] I won’t run to avoid splitting the field further and to keep focus on evaluating the current candidates. Oscar’s platform looks most pro-village (transparent ledger, clear tie policy protecting claims, accountability). Eve is also solid but a bit rigid; Alice is fine on inclusivity but her tie-break philosophy feels riskier. I’d rather support the best platform than add noise. Also noting that Grace and Katia not running could be PRs avoiding the spotlight or wolves staying low; I’ll watch their engagement next.
   ➖ Liam is not running
-  [REASON] I won’t run to avoid splitting the field further and to keep focus on evaluating the current candidates. Oscar’s platform looks most pro-village (transparent ledger, clear tie policy protecting claims, accountability). Eve is also solid but a bit rigid; Alice is fine on inclusivity but her tie-break philosophy feels riskier. I’d rather support the best platform than add noise. Also noting that Grace and Katia not running could be PRs avoiding the spotlight or wolves staying low; I’ll watch their engagement next.
 
 ✅ Candidacy and justification phase completed! Candidates: Eve, Alice, Oscar
 
@@ -259,8 +256,8 @@ Eve → 💬 ANALYSIS
 Alice → 💬 ANALYSIS
 Oscar → 💬 ANALYSIS
 Grace → 💬 ANALYSIS
-Katia → 🛡️ DÉFENSE
-Liam → 🛡️ DÉFENSE
+Katia → 🛡️ DEFENSE
+Liam → 🛡️ DEFENSE
 
 📋 Speaking order: Katia → Liam → Eve → Oscar → Alice → Grace
 
@@ -358,7 +355,7 @@ Eve → 💬 ANALYSIS
 Alice → 💬 ANALYSIS
 Oscar → 💬 ANALYSIS
 Grace → 💬 ANALYSIS
-Katia → 🛡️ DÉFENSE
+Katia → 🛡️ DEFENSE
 Liam → 💬 ANALYSIS
 
 📋 Speaking order: Katia → Oscar → Liam → Eve → Grace → Alice
@@ -624,7 +621,7 @@ Barring a credible Seer claim, my vote is on Alice. Let’s close this correctly
 
 [THE GM DETERMINES THE SPEAKING ORDER]
 Eve → 💬 ANALYSIS
-Alice → 🛡️ DÉFENSE
+Alice → 🛡️ DEFENSE
 Grace → 💬 ANALYSIS
 Liam → 💬 ANALYSIS
 
@@ -689,7 +686,7 @@ Process to close: No further PR claims; Witch stays quiet. Eve, per your mayor p
 
 [THE GM DETERMINES THE SPEAKING ORDER]
 Eve → 💬 ANALYSIS
-Alice → 🛡️ DÉFENSE
+Alice → 🛡️ DEFENSE
 Grace → 💬 ANALYSIS
 Liam → 💬 ANALYSIS
 

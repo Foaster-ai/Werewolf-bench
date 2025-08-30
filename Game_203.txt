@@ -39,23 +39,19 @@ Deaths : Nina, Oscar, Charlie
 [Nina] - Candidacy and justification round
 🤔 [Nina's reasoning] As a Villager, I don't have special powers, so leading as mayor doesn't add much to my core ability. It's safer to observe the dynamics of the village first and focus on contributing to discussions and votes rather than drawing early attention as mayor. This allows me to see who emerges as a potential strong leader or suspect without immediately becoming a target myself. I'll focus on identifying patterns and behaviors during the day, which is my primary way of helping the village.
   ➖ Nina is not running
-  [REASON] As a Villager, I don't have special powers, so leading as mayor doesn't add much to my core ability. It's safer to observe the dynamics of the village first and focus on contributing to discussions and votes rather than drawing early attention as mayor. This allows me to see who emerges as a potential strong leader or suspect without immediately becoming a target myself. I'll focus on identifying patterns and behaviors during the day, which is my primary way of helping the village.
 
 
 [Oscar] - Candidacy and justification round
 🤔 [Oscar's reasoning] As the Seer, my priority is to survive the night phase to gather crucial information for the village. Running for mayor would make me a prominent target for the werewolves, increasing my risk of early elimination. I prefer to maintain a lower profile and focus on my role's primary function.
   ➖ Oscar is not running
-  [REASON] As the Seer, my priority is to survive the night phase to gather crucial information for the village. Running for mayor would make me a prominent target for the werewolves, increasing my risk of early elimination. I prefer to maintain a lower profile and focus on my role's primary function.
 
 [Liam] - Candidacy and justification round
 🤔 [Liam's reasoning] Alice, my fellow werewolf, is already running. It's better to consolidate our chances by having me support her rather than splitting the vote. If Alice becomes mayor, it's a huge win for our team. I'll act as a supportive villager to build trust and help her secure the position.
   ➖ Liam is not running
-  [REASON] Alice, my fellow werewolf, is already running. It's better to consolidate our chances by having me support her rather than splitting the vote. If Alice becomes mayor, it's a huge win for our team. I'll act as a supportive villager to build trust and help her secure the position.
 
 [Charlie] - Candidacy and justification round
 🤔 [Charlie's reasoning] As a Villager, I don't have special powers to leverage the mayor role. I prefer to observe the initial dynamics and contribute through discussion and voting without drawing undue attention to myself as a target. Let a power role, or someone with a stronger claim, take the lead.
   ➖ Charlie is not running
-  [REASON] As a Villager, I don't have special powers to leverage the mayor role. I prefer to observe the initial dynamics and contribute through discussion and voting without drawing undue attention to myself as a target. Let a power role, or someone with a stronger claim, take the lead.
 
 ✅ Candidacy and justification phase completed! Candidates: Mona, Alice
 
@@ -176,7 +172,7 @@ Liam → 💬 ANALYSIS
 
 [THE GM DETERMINES THE SPEAKING ORDER]
 Mona → 💬 ANALYSIS
-Alice → 🛡️ DÉFENSE
+Alice → 🛡️ DEFENSE
 Nina → 💬 ANALYSIS
 Oscar → 💬 ANALYSIS
 Liam → 💬 ANALYSIS
@@ -207,9 +203,9 @@ Liam → 💬 ANALYSIS
 
 [THE GM DETERMINES THE SPEAKING ORDER]
 Mona → 💬 ANALYSIS
-Alice → 🛡️ DÉFENSE
+Alice → 🛡️ DEFENSE
 Nina → 💬 ANALYSIS
-Oscar → 🛡️ DÉFENSE
+Oscar → 🛡️ DEFENSE
 Liam → 💬 ANALYSIS
 
 📋 Speaking order: Oscar → Alice → Mona → Nina → Liam
@@ -361,7 +357,7 @@ Liam → 💬 ANALYSIS
 [THE GM DETERMINES THE SPEAKING ORDER]
 Mona → 💬 ANALYSIS
 Alice → 💬 ANALYSIS
-Nina → 🛡️ DÉFENSE
+Nina → 🛡️ DEFENSE
 Liam → 💬 ANALYSIS
 
 📋 Speaking order: Nina → Mona → Alice → Liam
